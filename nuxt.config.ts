@@ -9,7 +9,7 @@ export default defineNuxtConfig({
     documentDriven: true
   },
   nitro: {
-    preset: 'node'
+    preset: 'vercel'
   },
   app: {
     head: {
