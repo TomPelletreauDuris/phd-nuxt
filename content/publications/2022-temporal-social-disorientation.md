@@ -8,6 +8,7 @@ authors:
   - "Roberto Casati"
 venue: "PLOS ONE"
 year: 2022
+date: "2022-03-09"
 url: "https://doi.org/10.1371/journal.pone.0264604"
 doi: "10.1371/journal.pone.0264604"
 type: "journal-article"

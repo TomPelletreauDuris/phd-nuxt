@@ -17,7 +17,12 @@
         <article class="publication-card">
           <h3>{{ latestPublication.title }}</h3>
           <p class="muted">
-            {{ latestPublication.authors?.join(', ') }} — {{ latestPublication.venue }} ({{ latestPublication.year }})
+            {{ latestPublication.authors?.join(', ') }} — {{ latestPublication.venue }}
+            <span v-if="latestPublication.publishedLabel">
+              ·
+              <time :datetime="latestPublication.publishedDate">{{ latestPublication.publishedLabel }}</time>
+            </span>
+            <span v-else-if="latestPublication.year"> · {{ latestPublication.year }}</span>
           </p>
           <p v-if="latestPublication.summary">{{ latestPublication.summary }}</p>
           <div>
@@ -36,6 +41,7 @@ import SiteHeader from '~/components/SiteHeader.vue'
 import Footer from '~/components/Footer.vue'
 import PostCard from '~/components/PostCard.vue'
 import RhizomeVisualization from '~/components/RhizomeVisualization.client.vue'
+import { normalizePublication, sortPublications } from '~/utils/publications'
 const { data: posts } = await useAsyncData('latest-posts', () =>
   queryContent('blog')
     .where({ draft: { $ne: true } })
@@ -53,15 +59,12 @@ posts.value = (posts.value || []).map((p) => ({
 const { data: publications } = await useAsyncData('latest-publications', () =>
   queryContent('publications')
     .where({ draft: { $ne: true } })
-    .sort({ year: -1, title: 1 })
-    .limit(1)
     .find()
 )
 
-publications.value = (publications.value || []).map((p) => ({
-  ...p,
-  summary: p.summary || p.description || p.excerpt || ''
-}))
+const normalizedPublications = computed(() =>
+  sortPublications((publications.value || []).map((p) => normalizePublication(p)))
+)
 
-const latestPublication = computed(() => (publications.value || [])[0] || null)
+const latestPublication = computed(() => normalizedPublications.value[0] || null)
 </script>

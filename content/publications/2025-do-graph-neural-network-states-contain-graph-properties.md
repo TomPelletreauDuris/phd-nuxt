@@ -6,6 +6,7 @@ authors:
   - "Michael Cochez"
 venue: "Proceedings of The 19th International Conference on Neurosymbolic Learning and Reasoning"
 year: 2025
+date: "2025-06-15"
 url: "https://proceedings.mlr.press/v284/pelletreau-duris25a.html"
 type: "conference-paper"
 ---
