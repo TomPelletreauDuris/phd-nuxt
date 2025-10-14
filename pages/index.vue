@@ -1,0 +1,67 @@
+<template>
+  <div>
+    <SiteHeader />
+    <main class="container">
+      <h1>Pelletreau-Duris Tom</h1>
+      <p class="muted">PhD candidate in graph machine learning. </p>
+      <p class="muted">Officially advancing explainability of neuro-symbolic AI, tactically working on mechanistic interpretability for graph ml. Personally trying to bridge disciplinaries I love, networking philosophy of mind, social sciences, AI and neurosciences through the lens of graph theory and XAI. Systematizing rhizomes. </p>
+      <RhizomeVisualization />
+      <section class="latest-posts">
+        <h2>Latest posts</h2>
+        <div v-for="post in posts" :key="post._path">
+          <PostCard :title="post.title" :date="post.date" :summary="post.summary" :tags="post.tags" :slug="post.slug" />
+        </div>
+      </section>
+  <section v-if="latestPublication" class="latest-publication">
+        <h2>Latest publication</h2>
+        <article class="publication-card">
+          <h3>{{ latestPublication.title }}</h3>
+          <p class="muted">
+            {{ latestPublication.authors?.join(', ') }} — {{ latestPublication.venue }} ({{ latestPublication.year }})
+          </p>
+          <p v-if="latestPublication.summary">{{ latestPublication.summary }}</p>
+          <div>
+            <a :href="latestPublication.url" target="_blank" rel="noopener">Read publication</a>
+          </div>
+        </article>
+      </section>
+    </main>
+    <Footer />
+  </div>
+</template>
+
+<script setup>
+import { computed } from 'vue'
+import SiteHeader from '~/components/SiteHeader.vue'
+import Footer from '~/components/Footer.vue'
+import PostCard from '~/components/PostCard.vue'
+import RhizomeVisualization from '~/components/RhizomeVisualization.client.vue'
+const { data: posts } = await useAsyncData('latest-posts', () =>
+  queryContent('blog')
+    .where({ draft: { $ne: true } })
+    .sort({ date: -1 })
+    .limit(3)
+    .find()
+)
+
+posts.value = (posts.value || []).map((p) => ({
+  ...p,
+  slug: (p._path || '').replace(/^\/?blog\//, ''),
+  summary: p.summary || p.description || p.excerpt || ''
+}))
+
+const { data: publications } = await useAsyncData('latest-publications', () =>
+  queryContent('publications')
+    .where({ draft: { $ne: true } })
+    .sort({ year: -1, title: 1 })
+    .limit(1)
+    .find()
+)
+
+publications.value = (publications.value || []).map((p) => ({
+  ...p,
+  summary: p.summary || p.description || p.excerpt || ''
+}))
+
+const latestPublication = computed(() => (publications.value || [])[0] || null)
+</script>

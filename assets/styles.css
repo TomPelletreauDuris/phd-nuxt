@@ -1,0 +1,211 @@
+html, body {
+  font-family: 'Merriweather', 'Source Serif 4', Georgia, 'Times New Roman', serif;
+  color: #1f2933;
+  background: #fdfdfc;
+  margin: 0;
+  line-height: 1.7;
+}
+
+.container {
+  max-width: 880px;
+  margin: 0 auto;
+  padding: 32px 24px;
+}
+
+.site-header, .site-footer {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 16px 24px;
+}
+
+.site-header a {
+  text-decoration: none;
+  color: inherit;
+  letter-spacing: 0.04em;
+  font-weight: 600;
+}
+
+.post-card {
+  border-bottom: 1px solid #d9d9d9;
+  padding: 0;
+}
+
+.post-card h3 {
+  margin-bottom: 0.35rem;
+}
+
+.latest-posts {
+  border-top: 1px solid #d9d9d9;
+  padding-top: 16px;
+  margin-top: 24px;
+}
+
+.latest-publication {
+  margin-top: 32px;
+}
+
+.latest-posts > div:first-child .post-card {
+  padding-top: 8px;
+}
+
+.latest-posts > div:last-child .post-card {
+  padding-bottom: 0;
+  border-bottom: none;
+}
+
+.publication-card {
+  border: 1px solid rgba(102, 112, 132, 0.25);
+  border-radius: 10px;
+  padding: 1.4rem 1.6rem;
+  background: #f6f7fa;
+  margin-top: 1.5rem;
+}
+
+.publication-card h3 {
+  margin: 0 0 0.4rem;
+  font-size: 1.28rem;
+}
+
+.publication-card a {
+  color: #2f3f55;
+  text-decoration: none;
+  border-bottom: 1px solid rgba(47, 63, 85, 0.35);
+  padding-bottom: 2px;
+  transition: border-color 0.2s ease, color 0.2s ease;
+}
+
+.publication-card a:hover,
+.publication-card a:focus {
+  color: #1d2b3d;
+  border-bottom-color: rgba(29, 43, 61, 0.75);
+}
+
+.muted {
+  color: #667084;
+  font-size: 0.95rem;
+}
+
+article {
+  font-size: 1.02rem;
+}
+
+article .post-subtitle {
+  font-family: 'Source Serif 4', 'Merriweather', Georgia, serif;
+  font-size: 1.15rem;
+  font-weight: 400;
+  letter-spacing: 0.015em;
+  color: #3b4860;
+  margin: 0.4rem 0 1.4rem;
+}
+
+article h2,
+article h3,
+article h4 {
+  font-family: 'Source Serif 4', 'Merriweather', Georgia, serif;
+  margin-top: 2.2rem;
+  margin-bottom: 0.8rem;
+  font-weight: 600;
+}
+
+article p {
+  margin: 1.2rem 0;
+}
+
+article blockquote {
+  border-left: 4px solid rgba(0, 0, 0, 0.55);
+  padding-left: 1.2rem;
+  margin: 1.8rem 0;
+  font-style: italic;
+  color: #2b2f36;
+  background: rgba(31, 41, 51, 0.04);
+}
+
+article blockquote cite {
+  display: block;
+  margin-top: 0.6rem;
+  font-style: normal;
+  color: #000;
+}
+
+article img {
+  max-width: 100%;
+  display: block;
+  margin: 2rem auto;
+  border-radius: 6px;
+  box-shadow: 0 10px 30px rgba(15, 23, 42, 0.12);
+}
+
+article figure {
+  margin: 2rem 0;
+  text-align: center;
+}
+
+article figcaption {
+  margin-top: 0.6rem;
+  font-size: 0.78rem;
+  color: #7a8798;
+  font-style: italic;
+}
+
+.small-text {
+  font-size: 0.82rem;
+  line-height: 1.6;
+  color: #4a4f58;
+}
+
+.neutral-link {
+  color: inherit;
+  text-decoration: underline;
+  text-decoration-color: currentColor;
+  text-decoration-thickness: 1px;
+  text-underline-offset: 3px;
+  transition: text-decoration-color 0.2s ease;
+}
+
+.neutral-link:hover,
+.neutral-link:focus {
+  color: inherit;
+  text-decoration-color: rgba(47, 63, 85, 0.65);
+}
+
+.centered-text {
+  text-align: center;
+  margin: 1.5rem auto;
+}
+
+.site-footer {
+  font-size: 0.9rem;
+  color: #8c97a6;
+}
+
+button {
+  font-family: inherit;
+  border: 1px solid #4a6fa5;
+  background: transparent;
+  color: #2f3f55;
+  padding: 0.35rem 0.9rem;
+  margin-right: 0.6rem;
+  border-radius: 999px;
+  cursor: pointer;
+  transition: all 0.2s ease;
+}
+
+button:hover {
+  background: #4a6fa5;
+  color: white;
+}
+
+.post-content h2 a,
+.post-content h3 a,
+.post-content h4 a {
+  color: inherit;
+  text-decoration: none;
+  pointer-events: none;
+}
+
+.post-content h2 a:hover,
+.post-content h3 a:hover,
+.post-content h4 a:hover {
+  color: inherit;
+}
