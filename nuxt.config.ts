@@ -42,17 +42,7 @@ export default defineNuxtConfig({
     // suggested by Nitro warning — set to today's date for predictable builds
     date: '2025-10-14'
   },
-  sitemap: {
-    hostname: 'https://tompelletreauduris.com',
-    gzip: true,
-    routes: async () => {
-      const { $content } = require('@nuxt/content')
-      const posts = await $content('blog').fetch()
-      const publications = await $content('publications').fetch()
-      return [
-        ...posts.map((post: any) => `/blog/${post.slug}`),
-        ...publications.map((pub: any) => `/publications/${pub.slug}`)
-      ]
-    }
+  site: {
+    url: 'https://tompelletreauduris.com'
   }
 })
