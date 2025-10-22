@@ -8,8 +8,10 @@
       <a href="/publications" class="muted" style="margin-right:12px">Publications</a>
       <a href="/contact" class="muted">Contact</a>
     </nav>
+    <ThemeSwitch style="margin-left: 24px;" />
   </header>
 </template>
 
 <script setup>
+import ThemeSwitch from './ThemeSwitch.vue'
 </script>

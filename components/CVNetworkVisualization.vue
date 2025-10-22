@@ -262,9 +262,33 @@ const toggleFilter = (filterId) => {
   updateVisualization()
 }
 
+const fitToNodes = () => {
+  if (!svg || !cvData.nodes.length) return
+  // Calculate bounding box of all nodes
+  const xs = cvData.nodes.map(n => n.x || 0)
+  const ys = cvData.nodes.map(n => n.y || 0)
+  const minX = Math.min(...xs)
+  const maxX = Math.max(...xs)
+  const minY = Math.min(...ys)
+  const maxY = Math.max(...ys)
+  const width = networkContainer.value.clientWidth
+  const height = networkContainer.value.clientHeight
+  const nodesWidth = maxX - minX
+  const nodesHeight = maxY - minY
+  // Calculate scale and center
+  const scale = Math.min(
+    width / (nodesWidth + 80),
+    height / (nodesHeight + 80),
+    1
+  )
+  const tx = width / 2 - scale * (minX + nodesWidth / 2)
+  const ty = height / 2 - scale * (minY + nodesHeight / 2)
+  svg.transition().duration(500).call(zoom.transform, d3.zoomIdentity.translate(tx, ty).scale(scale))
+}
+
 const resetView = () => {
   if (svg && zoom) {
-    svg.transition().duration(750).call(zoom.transform, d3.zoomIdentity)
+    fitToNodes()
   }
   simulation?.alpha(0.3).restart()
 }
@@ -472,6 +496,8 @@ const initVisualization = () => {
 
     nodeGroup.attr('transform', d => `translate(${d.x},${d.y})`)
   })
+  // Fit view after initial layout
+  setTimeout(fitToNodes, 600)
 
   // Drag functions
   function dragstarted(event, d) {
@@ -513,12 +539,13 @@ onUnmounted(() => {
 <style scoped>
 .cv-network-container {
   width: 100%;
-  height: 0;
-  padding-bottom: 100%; /* Creates a square aspect ratio */
+  aspect-ratio: 5 / 4;
   background: linear-gradient(135deg, #f5f7fa 0%, #c3cfe2 100%);
   position: relative;
   overflow: hidden;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
+  border-radius: 18px;
+  box-shadow: 0 8px 32px rgba(31, 41, 51, 0.18);
 }
 
 .header {

@@ -1,9 +1,60 @@
-html, body {
+body {
   font-family: 'Merriweather', 'Source Serif 4', Georgia, 'Times New Roman', serif;
   color: #1f2933;
   background: #fdfdfc;
   margin: 0;
   line-height: 1.7;
+  transition: background 0.3s, color 0.3s;
+}
+
+body.dark {
+  --bg: #181a1b;
+  --text: #f3f4f6;
+  --muted: #a0aec0;
+  --card: #23272a;
+  --border: #2d3748;
+  --link: #90cdf4;
+  --shadow: rgba(0,0,0,0.45);
+  background: var(--bg);
+  color: var(--text);
+}
+
+body.dark .container,
+body.dark .site-header, body.dark .site-footer {
+  background: var(--bg);
+  color: var(--text);
+}
+
+body.dark .muted {
+  color: var(--muted);
+}
+
+body.dark .publication-card {
+  background: var(--card);
+  border-color: var(--border);
+}
+
+body.dark .post-card {
+  border-bottom: 1px solid var(--border);
+}
+
+body.dark .neutral-link {
+  color: var(--link);
+}
+
+body.dark .site-footer {
+  color: var(--muted);
+}
+
+body.dark button {
+  background: transparent;
+  color: var(--text);
+  border-color: var(--link);
+}
+
+body.dark button:hover {
+  background: var(--link);
+  color: #181a1b;
 }
 
 .container {
