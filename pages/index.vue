@@ -5,7 +5,8 @@
       <h1>Pelletreau-Duris Tom</h1>
       <p class="muted">PhD candidate in graph machine learning. </p>
       <p class="muted">Officially advancing explainability of neuro-symbolic AI, tactically working on mechanistic interpretability for graph ml. Personally trying to bridge disciplinaries I love, networking philosophy of mind, social sciences, AI and neurosciences through the lens of graph theory and XAI. Systematizing rhizomes. </p>
-      <RhizomeVisualization />
+      <!-- <RhizomeVisualization /> -->
+      <CVNetworkVisualization />
       <section class="latest-posts">
         <h2>Latest posts</h2>
         <div v-for="post in posts" :key="post._path">
@@ -41,6 +42,7 @@ import SiteHeader from '~/components/SiteHeader.vue'
 import Footer from '~/components/Footer.vue'
 import PostCard from '~/components/PostCard.vue'
 import RhizomeVisualization from '~/components/RhizomeVisualization.client.vue'
+import CVNetworkVisualization from '~/components/CVNetworkVisualization.vue'
 import { normalizePublication, sortPublications } from '~/utils/publications'
 const { data: posts } = await useAsyncData('latest-posts', () =>
   queryContent('blog')
