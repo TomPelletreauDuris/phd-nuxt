@@ -2,8 +2,8 @@
   <div>
     <SiteHeader />
     <main class="container">
-      <h1>Pelletreau-Duris Tom</h1>
-      <p class="muted">PhD candidate in graph machine learning at the Vrije Universiteit Amsterdam under the supervision of Michael Cochez and Jieying Cheng.</p>
+      <h1>Tom Pelletreau-Duris</h1>
+      <p class="muted">PhD candidate in graph machine learning at the Vrije Universiteit Amsterdam under the supervision of Jieying Cheng and Michael Cochez. Part of the <a href="https://kai.cs.vu.nl/index" target="_blank" rel="noopener">KAI research group</a>. Guest in the <a href="https://lr.cs.vu.nl/about/people" target="_blank" rel="noopener">L&R group</a>.  Half funded by the <a href="https://zorro-project.nl/" target="_blank" rel="noopener">Zorro project</a>. A consortium with ASML, Canon Production Printers, ITEC, Philips, and ThermoFisher Scientific.</p>
       <p class="muted">Officially advancing explainability of neuro-symbolic AI. Tactically working on mechanistic interpretability for graph ml. Personally trying to bridge disciplinaries I love, networking philosophy of mind, social sciences, AI and neurosciences through the lens of graph theory and XAI. Systematizing rhizomes. </p>
       <!-- <RhizomeVisualization /> -->
       <CVNetworkVisualization />
