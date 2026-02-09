@@ -4,7 +4,7 @@ authors:
   - "Abishek Thamma"
   - "Tom Pelletreau-Duris"
 date: 2023-02-05
-keywords: [Anthropomorphism, Sexual Consent, Human-Robot Interaction, Deepfakes, Social Robots, Therapeutic Robots, Sex Robots, Moral Agency, Personhood]
+tags: [Anthropomorphism, Sexual Consent, Human-Robot Interaction, Deepfakes, Social Robots, Therapeutic Robots, Sex Robots, Moral Agency, Personhood]
 draft: false
 ---
 

@@ -4,7 +4,7 @@ date: 2023-02-05
 authors:
   - "Abishek Thamma"
   - "Tom Pelletreau-Duris"
-keywords: [Cognitive Bias, Attention Economy, Transparency, Social Media, Human-Algorithm Interaction, Psychology, Performativity]
+tags: [Cognitive Bias, Attention Economy, Transparency, Social Media, Human-Algorithm Interaction, Psychology, Performativity]
 ---
 
 ## 1. Introduction

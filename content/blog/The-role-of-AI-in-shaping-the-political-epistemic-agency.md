@@ -6,6 +6,10 @@ tags: [AI, democracy, epistemic bubbles, echo chambers, political epistemic agen
 draft: false
 ---
 
+
+*AI extrapolate echo chambers and epistemic bubbles in the political domain. The exclusion from external ideas and the reinforcement of own bias is affecting everyone and is threatening democracies.*
+
+
 ## 1 Introduction
 
 ### 1.1 Issue Definition
