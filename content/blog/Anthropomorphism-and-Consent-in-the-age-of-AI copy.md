@@ -8,6 +8,8 @@ tags: [Anthropomorphism, Sexual Consent, Human-Robot Interaction, Deepfakes, Soc
 draft: false
 ---
 
+*Can machines truly reciprocate human emotional bonds, or does anthropomorphism merely project meaning onto algorithmic responses? As AI becomes increasingly humanlike, how do we navigate consent, attachment, and the ethics of designing companions without consciousness?*
+
 ## 1 Introduction
 
 Can you fall in love with an Artificial Intelligence (AI)? There are chances you have already thought about this question or have been confronted with one of its equivalents in the news like "person wants to marry their dog" [1], "woman marries her puppet" [2], "Can he marry a fictional character"[3]. The questions are usually approached with at best, curiosity, and at worst, are ignored or ridiculed. It is easy to conclude these questions as sad side effect of loneliness on people, but a deeper look at this points towards the fact that these entities, while aren't necessarily humans, end up being recipients of a "loving" relationship based on a projected anthropomorphism. But the rise of potential Artificial General Intelligence (AGI) could radically change our perception of Human-Robots-Interaction (HRI). Following the dream to overcome the Turing's test, AI are more and more designed in a way their behavior is not differentiable from human's. The idea of anthropomorphism in robots and AIs is both something we design in order to naturalize the interaction between humans and robots and on the other side something we project on AIs and robots because we tend to give human qualities to things around us.

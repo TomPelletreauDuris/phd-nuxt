@@ -7,6 +7,8 @@ authors:
 tags: [Cognitive Bias, Attention Economy, Transparency, Social Media, Human-Algorithm Interaction, Psychology, Performativity]
 ---
 
+*How do human cognitive biases and commercial incentives shape the supposedly "objective" algorithms that increasingly govern our attention, decisions, and social institutions—and can transparency offer a path toward accountability?*
+
 ## 1. Introduction
 
 We are currently in the era of new form of business competition, the "Attention Economy" [1], where the technological providers are fighting for the limited attention span of the consumer. This system incentivizes the various technological companies to attract the attention of the users in the form of personalised content curation, clickbait content, and frequent and often unnecessary notifications. Companies end up spending large amounts of time in developing highly sophisticated algorithms that can be used to identify target audience through the creation of a user profiles and building recommendation systems to maximise the user's interaction with their application or website.
