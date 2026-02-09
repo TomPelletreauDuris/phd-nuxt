@@ -1,0 +1,164 @@
+---
+title: "The role of Artificial Intelligence in shaping the Political Epistemic Agency"
+author: "Pelletreau-Duris Tom"
+date: 2023-01-16
+tags: [AI, democracy, epistemic bubbles, echo chambers, political epistemic agency, artificial intelligence, misinformation]
+draft: false
+---
+
+## 1 Introduction
+
+### 1.1 Issue Definition
+
+Artificial intelligence (AI) is rapidly changing the way we interact with information and it has the power to shape the democratic process in both positive and negative ways [1]. With the ability of AI to analyze and moderate large amounts of information and communication in real-time, AI is increasingly being utilized to control public discourse by a diverse range of actors including users, moderators, platforms, commercial entities, and governments [2]. On the one hand, AI can help to improve the accuracy and efficiency of decision-making, as well as increase citizen engagement and empower political participation [3, 4]. On the other hand, AI can also lead to the creation of dangerous "epistemic bubbles" and "echo chambers", which can undermine the democratic process by limiting exposure to diverse perspectives and reinforcing existing biases [5]. An epistemic bubble is a phenomenon in which a group becomes isolated from dissenting information perhaps accidentally, perhaps accidentally. While an echo chamber is characterized by the active exclusion of dissenting views [7]. It is crucial to understand the role of AI on epistemic bubbles and echo chambers and its effect on the political epistemic agency. This will be done by examining the perspective of the popular press and comparing it with the relevant scientific literature. The two research questions that will be addressed in this report are:
+
+1. What is the relationship between AI and the formation of epistemic bubbles and how does this impact individuals' epistemic agency in the democratic process?
+2. What is the relationship between AI and the formation of echo chambers and how does this impact individuals' epistemic agency in the democratic process?
+
+### 1.2 Epistemic Bubbles vs. Echo Chambers
+
+Epistemic bubbles and echo chambers are related concepts, but they have some key differences. An epistemic bubble refers to a social epistemic structure in which other relevant perspectives and information have been unintentionally excluded. It is the inability of a group to revise its beliefs in an accuracy-directed response to new information [5]. This could be due to confirmation bias, which is the tendency to favor information that reinforces existing beliefs [6]. However, if the members of the bubble become more insular and actively exclude or discredit alternative perspectives, the bubble may evolve into an echo chamber [7]. An echo chamber refers to a social epistemic structure in which other relevant perspectives and information have been intentionally excluded and discredited. Yet, if the members of the echo chamber become more open to outside perspectives and are willing to engage with new information, the echo chamber may evolve into an epistemic bubble [8]. Individuals within epistemic bubbles lack exposure to diverse perspectives and arguments, while individuals within echo chambers have been conditioned to systematically distrust outside sources (see Figure 1). It is important to distinguish between these two phenomena, as they may require different interventions. For instance, while mere exposure to evidence may be sufficient to dispel an epistemic bubble, it may reinforce an echo chamber. Additionally, individuals within echo chambers may find it more difficult to escape, as doing so may require a significant reevaluation of their belief system [8, 10].
+
+![A Visualization of Epistemic bubbles and Echo Chambers](/images/epistemic-bubbles-echo-chambers.png)
+
+*Figure 1: A Visualization of Epistemic bubbles and Echo Chambers*
+
+## 2 Further definition of the issue
+
+### 2.1 Democracy and the Importance of Political Epistemic Agency
+
+Democracy and political epistemic agency are closely intertwined concepts. Democracy is a form of government in which the power is held by the people, and it relies on the ability of citizens to make informed decisions [9]. Epistemic agency refers to the ability of individuals and groups to critically evaluate information and make informed decisions. In a democracy, the political epistemic agency is crucial for ensuring that citizens are able to actively participate in the political process and hold elected officials accountable [10].
+
+A lack of political epistemic agency can lead to the formation of epistemic bubbles and echo chambers, where individuals and groups are exposed to a limited range of information and perspectives, leading to a reinforcement of their existing beliefs [11]. AI-powered tools can be used to disseminate misinformation and propaganda, which can undermine the ability of individuals to make sound judgments. Furthermore, AI-driven news feeds and search results can create algorithmic epistemic bubbles that limit the diversity of information that individuals are exposed to, further exacerbating the problem of misinformation and polarization [12]. Hence, individuals become more susceptible to manipulation by special interest groups, media outlets, and leaders [13]. Furthermore, it can lead to an erosion of public trust in democratic institutions and a decrease in the quality of public policy decision-making [14]. Therefore, promoting political epistemic agency is essential for maintaining a healthy democracy. It ensures that citizens have access to a diversity of information and perspectives, which enables them to make well-informed decisions about who to elect, what policies to support, and how to hold their representatives accountable [15].
+
+### 2.2 Possible Future Scenarios
+
+One future scenario is that AI-powered information systems will continue to perpetuate and exacerbate epistemic bubbles and echo chambers, leading to a significant risk to the democratic process as seen in the Cambridge Analytica scandal [16]. However, it's also possible that society will take steps to mitigate the negative effects of AI on the democratic process. For instance by using more diverse and inclusive data sets and algorithms, and by promoting critical thinking and exposure to diverse perspectives [17]. In this way, the use of AI in the democratic process could have positive effects, such as improved accuracy and efficiency of decision-making and increased citizen engagement and participation [18]. However, there are concerns that it might be challenging to achieve this scenario as it requires a lot of effort and resources, and it's not guaranteed to be successful [3].
+
+In short, the future impact of AI on the democratic process is uncertain and it depends on how the technology is used and developed [19]. It is crucial that society is aware of the potential risks and advantages and actively works to mitigate the negative effects and promote the positive effects of AI in the democratic process [20,21]. The existence of epistemic bubbles and echo chambers is a real concern, and it's vital to be aware of the potential dangers they pose to the democratic process to ensure that the democratic process remains healthy and robust.
+
+## 3 Popular Press
+
+There is an abundance of media coverage on information bubbles. Across the board, echo chambers and epistemic bubbles are presented as threats to a democratic society. In the public debate, the distinction between the social epistemic phenomena has been blurred as the terms are often used interchangeably or without mentioning their distinguishing features. Because of this, the overarching term 'information bubble' will be used in this section.
+
+### 3.1 Information Bubbles
+
+A frequently occurring stance in the public press is that personalization algorithms play a significant role in the creation of information bubbles [22]. These algorithms, which are used to curate and present information to users based on their past behavior and preferences, have been criticized for creating "filter bubbles" that isolate people from diverse perspectives and information. This has led to concerns that personalization algorithms are exacerbating existing epistemic bubbles and echo chambers and contributing to a decline in the quality of public discourse [23].
+
+Correspondingly, there are concerns that AI-powered bots and deepfake technology, which can be used to automatically generate large amounts of fake news and disinformation, are making it easier for misinformation to spread and be believed [24]. These techniques are often used for political purposes. A prominent example in popular media is pizzagate, a fake story that had some serious political consequences [25]. Whether the effect of information bubbles on the democratic process is significantly large to be problematic remains up for debate. Although numerous articles portray it as a threat to the political epistemic agency, they do not describe to what extent this is particularly dangerous to a democracy.
+
+### 3.2 Possible Solutions
+
+Although information bubbles are widely covered in the news, there appears to be no general consensus on what would be an adequate solution to the issue. Some authors suggest that users should take action themselves, for example by diversifying their news consumption [23]. Alternatively, it is proposed that news platforms provide diversified recommendations. The BBC, a prominent news broadcaster, has decided to take action by actively tackling echo chambers by suggesting news articles to readers that lie outside their comfort zones [31].
+
+## 4 Scientific Perspective
+
+The influence of artificial intelligence on democracy through a political epistemic agency is subject to an ongoing academic debate. The scientific community is well aware of the societal debate and concerns regarding the impact of AI through information bubbles. In the scientific literature, filter bubbles and echo chambers are often described as influential factors for a political epistemic agency. Although the difference between these phenomena can get blurred in popular media, a subtle but significant distinction is made in the scientific literature [7]. However, there is no consensus on the size of the effect of these techniques and whether intervention is necessary. The different perspectives existing in the literature are presented in the following sections.
+
+### 4.1 Epistemic Bubbles
+
+In the scientific literature, epistemic bubbles are perceived to have concerning effects on a political epistemic agency. Theoretical work defines an epistemic bubble as the inability of a group to revise its beliefs in an accuracy-directed response to new information. [5]. The creation and formation of epistemic bubbles through AI could pose a significant risk to the democratic process, as it would lead to misinformation, polarization, susceptibility to manipulation by special interest groups, and an erosion of public trust [12, 13, 14].
+
+### 4.2 Echo Chambers
+
+Another noteworthy effect of AI on the democratic process discussed in the literature is the creation of echo chambers. Echo chambers occur when individuals are presented with information that is deliberately tailored to their interests and preferences, rather than a diverse range of perspectives. It is argued that this can lead to a lack of political engagement and a lack of meaningful debate and discussion [17]. It can also lead to the rise of extremist views and the erosion of democratic values [18]. Moreover, it is argued that it can facilitate the spread and credibility of misinformation, which has been widely regarded as a threat to democracy as it can lead to confusion about what is true and false [10].
+
+Conversely, empirical knowledge suggests that the effects of echo chambers are overstated in recent conversations [30]. It is argued that although echo chambers can arise on a single social media platform, the existence of echo chambers becomes less apparent when considering the entire media environment of an individual.
+
+All in all, there is a serious concern that echo chambers can undermine the integrity of the political information ecosystem and the ability of citizens to make informed decisions [27].
+
+### 4.3 Information Accessibility
+
+On the other side of the debate, it is reasoned that AI-powered tools have the ability to improve access to information, making it easier for individuals to stay informed and make informed decisions, thus facilitating political epistemic agency and counteracting the effects on political epistemic agency. It is widely acknowledged in the scientific community that AI tools like search engines are indispensable for structuring the scope of online information access for voters. Because of this, it has been argued that AI tools allow for the ability of individuals to access, evaluate, and use the information to make informed political decisions and therefore are essential to political epistemic agency [26]. This argument remains controversial because it does not refute the existence of epistemic bubbles or echo chambers. Moreover, scholars acknowledge that search engines are not neutral platforms, and the results that are returned are subject to bias and manipulation.
+
+### 4.4 Possible Solutions
+
+The problem of epistemic bubbles is relatively simple to solve according to Nguyen[7]. Epistemic bubbles are relatively fragile because sources have simply been left out, but are not discredited. The suggested solution would be to expose members to relevant information or arguments that they otherwise would have missed. This could be achieved by regulating the diversity of content provided by search engines, recommendation systems, and personalized advertisements.
+
+Unfortunately, echo chambers are more robust than epistemic bubbles because they make members discredit other sources [7]. Therefore they cannot be tackled using the same method. Instead, it is proposed that the focus should lie on repairing the trust between members and the outside world.
+
+Another position in the debate is that AI can be leveraged to help combat epistemic bubbles and echo chambers. For example, by using AI to identify and counter false information, or by using AI to curate and present information from a wide range of sources, it may be possible to reduce the influence of these phenomena.
+
+The more controversial side of the debate maintains that the effects of echo chambers are overstated [30]. Their evidence suggests that the consumption of a wider variety of media would be essential to intervene with the formation of echo chambers.
+
+## 5 Representation of Controversy
+
+The debate surrounding the influence of AI on epistemic bubbles and echo chambers and its effect on democracy and power is a complex and multifaceted one. There are a number of different positions that have been put forward by scholars and experts in the field, each with its own set of facts, predictions, and values.
+
+One position is that AI has the potential to exacerbate existing epistemic bubbles and echo chambers, as algorithms used to personalize content and filter information may reinforce people's existing beliefs and biases [21]. This could lead to further fragmentation of society and a decline in the ability of citizens to engage in informed, rational public discourse [21].
+
+Another position is that AI allows for easier access to information, for example through effective search engines or content generation. Although this may balance out the negative effects on political epistemic agency, it does not directly counteract information bubbles.
+
+A third position is that the effects of AI on epistemic bubbles and echo chambers are not yet fully understood [11], or even overstated [30], and that more research is needed to fully grasp the implications of these technologies on democracy and power.
+
+Because all different positions in the debate are represented in both scientific literature and popular media, it is not necessarily the case that the scientific or societal perspectives disagree. The difference in existing opinions does not lie in the acknowledgment of whether information bubbles exist, but rather in how they influence democracy and whether intervention is appropriate.
+
+Regardless of the position one takes, it is clear that the debate surrounding the influence of AI on epistemic bubbles and echo chambers is a complex and nuanced one that is shaped by a variety of different factors, including the facts and predictions of the technology, as well as the values and beliefs of those involved in the debate.
+
+## 6 Conclusion
+
+The concept of epistemic bubbles and echo chambers is critical in understanding the impact of information on the political epistemic agency, particularly in the context of the increasing role of AI in shaping the political landscape. These bubbles, which are characterized by a lack of exposure to diverse information and perspectives, can limit individuals' ability to make informed decisions and can reinforce existing power imbalances within society. The rise of AI and its ability to personalize and target information to specific individuals further amplifies the impact of these bubbles on the political epistemic agency. According to both popular press and scientific research, it is crucial that society continues to engage in open and critical dialogue about the implications of these technologies and their role in shaping political epistemic agency. This way, by engaging in open and critical dialogue about the implications of AI technologies, a comprehensive understanding of their effects can be developed, and steps can be taken to ensure that they are used in ways that promote informed decision-making and social equality.
+
+## References
+
+[1] Nemitz, P. (2018). Constitutional democracy and technology in the age of artificial intelligence. Philosophical Transactions of the Royal Society A: Mathematical, Physical and Engineering Sciences, 376(2133), 20180089. https://doi.org/10.1098/rsta.2018.0089
+
+[2] Figà Talamanca, G., & Arfini, S. (2022). Through the Newsfeed Glass: Rethinking Filter Bubbles and Echo Chambers. Philosophy & Technology, 35(1). https://doi.org/10.1007/s13347-021-00494-z
+
+[3] Marciano, A., Nicita, A., & Ramello, G. B. (2020). Big data and big techs: understanding the value of information in platform capitalism. European Journal of Law and Economics, 50(3), 345-358. https://doi.org/10.1007/s10657-020-096751
+
+[4] Savaget, P., Chiarini, T., & Evans, S. (2018). Empowering political participation through artificial intelligence. Science and Public Policy, 46(3), 369-380. https://doi.org/10.1093/scipol/scy064
+
+[5] Edenberg, E., & Hannon, M. (2021). Political Epistemology (Mind Association Occasional Series). OUP Oxford.
+
+[6] Quattrociocchi, W., Scala, A., & Sunstein, C. R. (2016). Echo Chambers on Facebook. SSRN Electronic Journal. https://doi.org/10.2139/ssrn.2795110
+
+[7] Nguyen, C. T. (2018). ECHO CHAMBERS AND EPISTEMIC BUBBLES. Episteme, 17(2), 141-161. https://doi.org/10.1017/epi.2018.32
+
+[8] Rhodes, S. C. (2021). Filter Bubbles, Echo Chambers, and Fake News: How Social Media Conditions Individuals to Be Less Critical of Political Misinformation. Political Communication, 39(1), 1-22. https://doi.org/10.1080/10584609.2021.1910887
+
+[9] Papanikos, G. T. (2022). The Five Ancient Criteria of Democracy: The Apotheosis of Equality. ATHENS JOURNAL OF HUMANITIES & ARTS, 9(2), 105-120. https://doi.org/10.30958/ajha.9-2-1
+
+[10] Coeckelbergh, M. (2022). Democracy, epistemic agency, and AI: political epistemology in times of artificial intelligence. AI and Ethics. https://doi.org/10.1007/s43681-022-00239-4
+
+[11] Kertysova, K. (2018). Artificial Intelligence and Disinformation. Security and Human Rights, 29(1-4), 55-81. https://doi.org/10.1163/18750230-02901005
+
+[12] Tumber, H., & Waisbord, S. (Reds.). (2021). The Routledge Companion to Media Disinformation and Populism. Taylor & Francis Group. https://doi.org/10.4324/9781003004431
+
+[13] Bridel, A. (2022). Democracy in a deluge: Epistemic agency of marginalized voices in Oaxaca's storm governance. Environment and Planning E: Nature and Space, 251484862211322. https://doi.org/10.1177/25148486221132219
+
+[14] Dogan, M. (2005). Erosion of Confidence in Thirty European Democracies. Comparative Sociology, 4(1-2), 11-54. https://doi.org/10.1163/1569133054621932
+
+[15] Dutton, W. H., Reisdorf, B. C., Dubois, E., & Blank, G. (2017). Social Shaping of the Politics of Internet Search and Networking: Moving Beyond Filter Bubbles, Echo Chambers, and Fake News. SSRN Electronic Journal. https://doi.org/10.2139/ssrn.2944191
+
+[16] Brown, A. J. (2020). "Should I Stay or Should I Leave?": Exploring (Dis)continued Facebook Use After the Cambridge Analytica Scandal. Social Media + Society, 6(1), 205630512091388. https://doi.org/10.1177/2056305120913884
+
+[17] Terren, L., & Borge-Bravo, R. (2021). Echo Chambers on Social Media: A Systematic Review of the Literature. Review of Communication Research, 9, 99-118. https://doi.org/10.12840/issn.2255-4165.028
+
+[18] Cinelli, M., De Francisci Morales, G., Galeazzi, A., Quattrociocchi, W., & Starnini, M. (2021). The echo chamber effect on social media. Proceedings of the National Academy of Sciences, 118(9). https://doi.org/10.1073/pnas.2023301118
+
+[19] Riemer, K., & Peter, S. (2021). Algorithmic audiencing: Why we need to rethink free speech on social media. Journal of Information Technology, 36(4), 409-426. https://doi.org/10.1177/02683962211013358
+
+[20] Bozdag, V., & Timmermans, J. (2001). Values in the filter bubble Ethics of Personalization Algorithms in Cloud Computing. 1st International Workshop on Values in Design - Building Bridges between RE, HCI and Ethics, Lisbon, Portugal, 6 September 2011.
+
+[21] Nelson, J. L., & Webster, J. G. (2017). The Myth of Partisan Selective Exposure: A Portrait of the Online Political News Audience. Social Media + Society, 3(3), 205630511772931. https://doi.org/10.1177/2056305117729314
+
+[22] Helbing, F. B. D. S. (2017). Will Democracy Survive Big Data and Artificial Intelligence? Scientific American. https://www.scientificamerican.com/article/willdemocracysurvive-big-data-and-artificial-intelligence/
+
+[23] Pechoucek, M. (2023). Personalized Digital Experiences: How Recommendation Algorithms Work For And Against Us. Forbes. https://www.forbes.com/sites/forbestechcouncil/202experiences-how-recommendation-algorithms-work-for-and-againstus/?sh=20b7964f5293
+
+[24] DiResta, R. (2018, 13 november). From QAnon to Pizzagate, When Online Conspiracies Form Cults. WIRED. https://www.wired.com/story/onlineconspiracygroups-qanon-cults/
+
+[25] Kang, C., & Frenkel, S. (2020, 14 juli). 'PizzaGate' Conspiracy Theory Thrives Anew in the TikTok Era. The New York Times. https://www.nytimes.com/2020/06/27/technology/pizzajustin-bieberqanon-tiktok.html
+
+[26] Granka, L. A. (2010). The Politics of Search: A Decade Retrospective. The Information Society, 26(5), 364-374. https://doi.org/10.1080/01972243.2010.511560
+
+[27] Heikkilä, M. (2022). A bias bounty for AI will help to catch unfair algorithms faster. MIT Technology Review. https://www.technologyreview.com/2022/10/20/1061977/aibias-bountyhelp-catch-unfair-algorithms-faster/
+
+[28] Milmo, D. (2021). Working of algorithms used in government decision-making to be revealed. Computing - The Guardian. https://amp.theguardian.com/technology/2021/nov/29/woof-algorithmsused-in-government-decision-making-to-be-revealed
+
+[29] Kelly, J. (2021). Artificial Intelligence Has Caused A 50% To 70% Decrease In Wages - Creating Income Inequality And Threatening Millions Of Jobs. Forbes. https://www.forbes.com/sites/jackkelly/2021/06/18/artificialintelligence-hascaused-50-to-70-decrease-in-wages-creating-income-inequality-andthreateningmillions-of-jobs/?sh=1096bccb1009
+
+[30] Dubois, E., & Blank, G. (2018). The echo chamber is overstated: the moderating effect of political interest and diverse media. Information, Communication & Society, 21(5), 729-745. https://doi.org/10.1080/1369118x.2018.1428656
+
+[31] Woods, B. (2022, 9 juni). BBC wages war on online echo chambers with 'unbiased' tech. The Telegraph. https://www.telegraph.co.uk/business/2022/06/09/bbcwageswar-online-echo-chambers-unbiased-tech/
