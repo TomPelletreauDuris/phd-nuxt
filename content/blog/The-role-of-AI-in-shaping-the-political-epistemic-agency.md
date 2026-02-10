@@ -1,9 +1,9 @@
 ---
 title: "The role of Artificial Intelligence in shaping the Political Epistemic Agency"
-author: "Pelletreau-Duris Tom"
+authors: "Pelletreau-Duris Tom"
 date: 2023-01-16
 tags: \[AI, democracy, epistemic bubbles, echo chambers, political epistemic agency, artificial intelligence, misinformation\]
-draft: false
+draft: true
 ---
 
 
