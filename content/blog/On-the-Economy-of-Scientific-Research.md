@@ -2,7 +2,7 @@
 title: "On the Economy of Scientific Research: Optimizing Research Efficiency through Analysis of Citation Graph Dynamics"
 date: 2025
 authors: "Tom Pelletreau-Duris"
-tags: [Citation graph, research efficiency]
+tags: \[Citation graph, research efficiency\]
 draft: false
 ---
 
