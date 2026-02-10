@@ -1,9 +1,9 @@
 ---
-title: "The role of Artificial Intelligence in shaping the Political Epistemic Agency"
+title: "How is AI reinforcing bias and polarising the politics"
 authors: "Pelletreau-Duris Tom"
 date: 2023-01-16
 tags: \[AI, democracy, epistemic bubbles, echo chambers, political epistemic agency, artificial intelligence, misinformation\]
-draft: true
+draft: false
 ---
 
 
@@ -14,7 +14,7 @@ draft: true
 
 ### 1.1 Issue Definition
 
-Artificial intelligence (AI) is rapidly changing the way we interact with information and it has the power to shape the democratic process in both positive and negative ways \[1\]. With the ability of AI to analyze and moderate large amounts of information and communication in real-time, AI is increasingly being utilized to control public discourse by a diverse range of actors including users, moderators, platforms, commercial entities, and governments \[2\]. On the one hand, AI can help to improve the accuracy and efficiency of decision-making, as well as increase citizen engagement and empower political participation \[3, 4\]. On the other hand, AI can also lead to the creation of dangerous "epistemic bubbles" and "echo chambers", which can undermine the democratic process by limiting exposure to diverse perspectives and reinforcing existing biases \[5\]. An epistemic bubble is a phenomenon in which a group becomes isolated from dissenting information perhaps accidentally, perhaps accidentally. While an echo chamber is characterized by the active exclusion of dissenting views \[7\]. It is crucial to understand the role of AI on epistemic bubbles and echo chambers and its effect on the political epistemic agency. This will be done by examining the perspective of the popular press and comparing it with the relevant scientific literature. The two research questions that will be addressed in this report are:
+Artificial intelligence (AI) has changed the way we interact with information. It has the power to shape the democratic process in both positive and negative ways \[0\]. In my own opinion, it is mostly negative, mainly because interacting with an AI is being overflowed by information \[1\].With the ability of AI to analyze and moderate large amounts of information and communication in real-time, AI is increasingly being utilized to control public discourse by a diverse range of actors including users, moderators, platforms, commercial entities, and governments \[2\]. On the one hand, AI can help to improve the accuracy and efficiency of decision-making, as well as increase citizen engagement and empower political participation \[3, 4\]. On the other hand, AI can also lead to the creation of dangerous "epistemic bubbles" and "echo chambers", which can undermine the democratic process by limiting exposure to diverse perspectives and reinforcing existing biases \[5\]. An epistemic bubble is a phenomenon in which a group becomes isolated from dissenting information perhaps accidentally, perhaps accidentally. While an echo chamber is characterized by the active exclusion of dissenting views \[7\]. It is crucial to understand the role of AI on epistemic bubbles and echo chambers and its effect on the political epistemic agency. This will be done by examining the perspective of the popular press and comparing it with the relevant scientific literature. The two research questions that will be addressed in this report are:
 
 1. What is the relationship between AI and the formation of epistemic bubbles and how does this impact individuals' epistemic agency in the democratic process?
 2. What is the relationship between AI and the formation of echo chambers and how does this impact individuals' epistemic agency in the democratic process?
@@ -105,7 +105,9 @@ The concept of epistemic bubbles and echo chambers is critical in understanding 
 
 ## References
 
-\[1\] Nemitz, P. (2018). Constitutional democracy and technology in the age of artificial intelligence. Philosophical Transactions of the Royal Society A: Mathematical, Physical and Engineering Sciences, 376(2133), 20180089. https://doi.org/10.1098/rsta.2018.0089
+\[0\] Nemitz, P. (2018). Constitutional democracy and technology in the age of artificial intelligence. Philosophical Transactions of the Royal Society A: Mathematical, Physical and Engineering Sciences, 376(2133), 20180089. https://doi.org/10.1098/rsta.2018.0089
+
+\[1\]Kobi Hackenburg et al. ,The levers of political persuasion with conversational artificial intelligence.Science390,eaea3884(2025).DOI:10.1126/science.aea3884
 
 \[2\] Figà Talamanca, G., & Arfini, S. (2022). Through the Newsfeed Glass: Rethinking Filter Bubbles and Echo Chambers. Philosophy & Technology, 35(1). https://doi.org/10.1007/s13347-021-00494-z
 
