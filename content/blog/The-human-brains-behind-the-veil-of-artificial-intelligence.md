@@ -5,6 +5,8 @@ authors:
   - "Abishek Thamma"
   - "Tom Pelletreau-Duris"
 tags: [Cognitive Bias, Attention Economy, Transparency, Social Media, Human-Algorithm Interaction, Psychology, Performativity]
+section: "AI and philosophy"
+draft: false
 ---
 
 *How do human cognitive biases and commercial incentives shape the supposedly "objective" algorithms that increasingly govern our attention, decisions, and social institutions—and can transparency offer a path toward accountability?*

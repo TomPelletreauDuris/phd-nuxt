@@ -3,6 +3,7 @@ title: "On the Economy of Scientific Research: Optimizing Research Efficiency th
 date: 2025
 authors: "Tom Pelletreau-Duris"
 tags: [Citation graph, research efficiency]
+section: "AI and philosophy"
 draft: false
 ---
 

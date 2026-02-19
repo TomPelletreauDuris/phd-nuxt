@@ -2,7 +2,8 @@
 title: "How is AI reinforcing bias and polarising the politics"
 authors: "Pelletreau-Duris Tom"
 date: 2023-01-16
-tags: \[AI, democracy, epistemic bubbles, echo chambers, political epistemic agency, artificial intelligence, misinformation\]
+tags: [AI, democracy, epistemic bubbles, echo chambers, political epistemic agency, artificial intelligence, misinformation]
+section: "AI and philosophy"
 draft: false
 ---
 

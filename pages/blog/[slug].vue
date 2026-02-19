@@ -2,7 +2,7 @@
   <div>
     <SiteHeader />
     <main class="container">
-  <article v-if="article" class="post-content">
+  <article v-if="article" :class="['post-content', article.contentStyle === 'expose' ? 'expose-philosophique' : '']">
         <h1>{{ article.title }}</h1>
         <p v-if="article.subtitle" class="post-subtitle">{{ article.subtitle }}</p>
         <div class="muted">

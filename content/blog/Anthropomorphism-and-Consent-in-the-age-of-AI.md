@@ -5,6 +5,7 @@ authors:
   - "Tom Pelletreau-Duris"
 date: 2023-02-05
 tags: [Anthropomorphism, Sexual Consent, Human-Robot Interaction, Deepfakes, Social Robots, Therapeutic Robots, Sex Robots, Moral Agency, Personhood]
+section: "AI and philosophy"
 draft: false
 ---
 

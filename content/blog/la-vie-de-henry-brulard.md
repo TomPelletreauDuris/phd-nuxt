@@ -1,0 +1,87 @@
+---
+title: "Analyse de La Vie de Henry Brulard"
+subtitle: "Stendhal et l'impasse autobiographique"
+date: 2019-06-07
+section: "Spirituality and other fun stuff"
+contentStyle: "expose"
+summary: "Analyse littéraire de La Vie de Henry Brulard de Stendhal : la quête de soi par l'écriture, le dialogue entre narrateur, auteur et lecteur, et la mort du Romantisme."
+tags: [littérature, Stendhal, autobiographie, Romantisme, khâgne]
+draft: false
+---
+
+# Analyse de *La Vie de Henry Brulard*
+
+---
+
+Stendhal écrit, dans ses œuvres intimes :
+
+> « Quel homme suis-je ? Ai-je du bon sens, ai-je du bon sens avec profondeur ? [...] Je ne me connais point moi-même et c'est ce qui quelquefois, la nuit, quand j'y pense, me désole. Suis-je bon, méchant, spirituel, bête ? »
+
+Stendhal est donc en quête de lui-même. C'est pour tenter de répondre aux questions qu'il se pose qu'il commence à écrire *La Vie de Henry Brulard*, d'abord en son nom, puis très vite sous le masque de Henry Brulard. Cette pulsion biographique, cette hantise égotique tente désespérément de répondre à la question « qui suis-je ? ». L'écrivain Henri Beyle, qui a choisi pour pseudonyme d'auteur Stendhal, écrit ce qu'il déclare être un « roman ». Mais le choix du nom du narrateur, avec ce prénom « Henry », tout comme les événements narrés, les voyages en Italie, les personnages racontés, tout nous invite à penser cette œuvre comme une autobiographie déguisée. Et c'est ce déguisement même qui permet à Henri Beyle d'écrire profondément pour lui en se dissociant d'une manière presque schizophrénique entre écrivain, auteur et narrateur. Ici l'écrivain est Henri Beyle, l'auteur Stendhal et le narrateur Henry Brulard. Et c'est cette dissociation qui lui permet de créer une progression dialogique. De la même manière, c'est ce déguisement — éclatement de son identité par l'écriture — qui permet au narrateur de s'adresser à un lecteur potentiel et de produire alors un dialogue.
+
+![Stendhal](/images/stendhal.png)
+
+Stendhal s'inscrit dans la lignée des *Essais* de Montaigne en tant qu'il rejette une description de soi qui se voudrait « naturelle » à travers une simple autobiographie. Il y préfère la méthode de connaissance indirecte, celle qui se fait par le récit du monde et du passé. Mais alors, lorsque le passé devient indicible, que le « sujet surpasse le disant », comment peut-on exprimer quelque chose de soi à travers ce qui ne peut s'écrire ?
+
+Ce qui se dit avant notre extrait peut nous aider à comprendre cela. Le narrateur parle de son amour passé avec Angela Pietragrua comme d'une « folie » ; il dit que cet amour est « peu intelligible ». Cet amour l'a rendu aveugle et il ne peut le regarder sans être aveuglé. On ne peut le décrire comme on ne peut « distinguer la partie du ciel voisine du soleil ». Le langage est comme aveuglé, incapable de voir et de faire voir ce passé passionnel. Le narrateur conclut : « voilà déjà que j'oublie l'orthographe ». On assiste au premier passage du narrateur à l'auteur. Celui-ci oublie l'orthographe, c'est-à-dire le mode du dire : la prose. C'est une dégénérescence. Voilà pourquoi l'auteur, en s'adressant au lecteur, le somme de fermer le livre si celui-ci est du « parti prosaïque ». Car la prose ici meurt en même temps que le narrateur. Pourtant, en lisant, nous nous rendons compte que nous sommes déjà à la fin du livre ; cela paraît ridicule de nous demander de fermer le livre. En fait, Stendhal joue avec ses identités. Demander au lecteur de fermer le livre alors que nous sommes face à la dernière page, cela ressemble bien à ce qu'un narrateur pourrait dire, n'ayant pas conscience du livre dans lequel il est. Ce sont là les dernières convulsions d'un narrateur mourant en même temps que le langage et que l'œuvre elle-même. Nous sommes dans les deux dernières pages d'une œuvre posthume. Cela s'accompagne de la prise de pouvoir croissante de l'auteur, voire même de l'écrivain. C'est là l'acte ultime d'une poétique qui existe par-delà les mots, par-delà le livre.
+
+Nous le montrerons en trois parties. D'abord, de « Daignez me pardonner » à « J'aurais d'autres maîtresses », où l'auteur commence à parler au lecteur en racontant un sentiment passé de façon directe — l'auteur prend petit à petit la place du narrateur, ce qui annonce la mort de celui-ci. Ensuite, de « Je me suis promené un quart d'heure » à « le plus aimé en sa vie », où l'on assiste à un changement de ton : le narrateur se remet en question sans cesse et parle au lecteur indirectement. Enfin, de « Ma foi je ne puis continuer » à « C'est impossible pour moi », où cette fois l'auteur est catégorique : il est impossible d'écrire. L'auteur se suicide à son tour pour laisser la place à l'homme, rendre sa vie à l'écrivain.
+
+---
+
+## I. Le dialogue avec le lecteur : objectiver le moi
+
+Dans une première partie, nous allons montrer comment le dialogue entre l'auteur et le lecteur présumé permet à Stendhal de mettre une partie de lui-même en œuvre, d'objectiver une partie de lui à travers Henry Brulard afin de pouvoir réfléchir sur lui-même.
+
+Dès le début de l'extrait, le lecteur est encensé dans une sorte d'apologie, d'ode parodique. Stendhal rappelle ainsi le rapport de nécessité entre celui qui écrit et celui qui lit. Si le lecteur croit venir par bénévolat, c'est-à-dire sans obligation et de façon gratuite, on lui rappelle ironiquement son importance, car c'est par lui que Stendhal peut se révéler à lui-même. Stendhal, à travers ce qui reste du narrateur, prend à parti le lecteur et l'emmène avec lui dans une dialectique.
+
+Il pique la curiosité de celui-ci en se moquant de lui pour avoir toute son attention. « Fermez le livre », ordonne-t-il, si vous êtes vieux ou si vous n'avez plus l'âme d'un poète. Ce qui, en soi, semble être la même chose. Bien sûr, cette tournure donnera au lecteur l'envie de lire la suite, tout en lui faisant comprendre qu'il doit ouvrir sa sensibilité poétique.
+
+Stendhal semble avoir peur des apparences. Il donne à voir une autocritique en se mettant à la place de son lecteur potentiel. Son récit « semblera absurde ». Si Stendhal parle au lecteur directement, c'est en quelque sorte pour assurer l'importance du lecteur. Et plus le statut d'existence de ce lecteur présumé semble assuré, plus Stendhal peut adopter son point de vue et ainsi avoir un langage réflexif. Si la quête de soi est bien le motif premier de l'œuvre *Vie de Henry Brulard*, alors le dialogue avec le lecteur, entre deux entités séparées par la distance du livre, est l'instrument qui permet à la conscience de rebondir et à celui qui écrit sur soi de se voir avec les yeux d'un autre.
+
+C'est d'ailleurs en s'exprimant au lecteur que l'auteur fait progresser sa pensée, se reprend voire se contredit. D'abord, il admet le caractère absurde de son récit, c'est-à-dire le fossé entre ce qui est dit et ce qui veut se dire — c'est cette dissonance qui crée le sentiment absurde. Ensuite, il décrit un amour au-delà des choses : au-delà de la vie terrestre car céleste, au-delà de la raison car « passionné ». Cet amour passé l'a « enlevé à la terre ». C'est-à-dire qu'à l'époque, il vivait cet amour comme une poésie, au-delà des choses prosaïques. Mais en même temps, à l'heure où il écrit ces lignes, Stendhal se rend compte que cet amour l'a « enlevé à la terre », c'est-à-dire qu'il baignait dans les illusions, qu'il n'était plus en phase avec la réalité et que cet amour-là était en fait auto-suggéré. Par cette phrase, Stendhal exprime l'impasse biographique. Soit il écrit sur le passé depuis son présent, et alors ce passé lui échappera toujours en partie ; soit il écrit sur le passé depuis le passé, et alors la totalité de la réalité de l'époque, qu'il n'a pu comprendre que rétrospectivement, lui échappe. Ce passé est donc une « chimère », composé d'éléments qui ne peuvent, en réalité, pas se mélanger.
+
+C'est précisément de cela que se rend compte Stendhal en écrivant. La même phrase change de sens sous ses yeux. C'est en tâchant d'écrire son passé, de le mettre en œuvre, que Stendhal peut alors passer du statut de sujet à celui d'objet et tenter ainsi de se comprendre. De cette manière, le paragraphe suivant agit comme une rétrospective où l'auteur, en réaction à ce qu'il vient de lire sur lui-même, tente de se justifier. « Non pas de fidélité mais d'une sorte de constance » : litote qui montre la distance qui s'est opérée entre le moi passé — qui aurait parlé de fidélité — et le moi présent qui se relit lui-même et se reprend par « constance », car il se trouve lui-même ridicule. Le moi passé est comme nié, et puisque c'est le narrateur, Henry Brulard, qui a essayé de raconter ce passé tout au long du livre, c'est lui aussi qui commence à mourir.
+
+Finalement, cette dialectique se résout par la scission définitive de ces deux moi et l'identification de Stendhal au seul moi présent. Ceci se vérifie par l'utilisation prononcée du passé imparfait. Il y a le « je » qui aimais, qui « croyais », qui donc étais « trompé » — il semble qu'il se faisait tromper dans tous les sens du terme — et le « je » présent qui vient se moquer du « je » passé car il croyait être l'égal de sa femme en ayant d'autres maîtresses.
+
+Stendhal semble donc entendre le mot « individualité » comme deux mots : *individu* et *dualité*. Dualité de l'identité, du moi. La connaissance de soi passe par un dialogue et une remise en doute à travers le texte, entre le narrateur et l'auteur, et par l'auteur et le lecteur. C'est-à-dire une partie de Stendhal avec une autre partie de soi.
+
+---
+
+## II. Le questionnement intérieur : quand le langage s'affole
+
+En deuxième partie, nous montrerons comment Stendhal se questionne lui-même plus en profondeur puisqu'il ne s'adresse plus au lecteur directement, maintenant qu'il a conscience de son passé — puisqu'il a réussi à en faire un objet grâce à l'idée de lecteur.
+
+« Je me suis promené un quart d'heure avant d'écrire », écrit-il. Cette ellipse signe l'arrêt de mort du narrateur. Stendhal écrit maintenant pour lui-même. Par ce saut temporel, il apparaît que celui qui écrit vient de faire une pause, vient de digérer voire de ruminer ce qui vient de se passer à l'instant par le jeu de l'écriture. L'auteur s'adresse à lui-même dans une sorte de dialogue schizophrène. Il y a un emballement, une dégénérescence du texte. Les murs entre le livre et le hors-livre se brisent peu à peu. Le narrateur vit ses derniers instants et balbutie ses derniers mots.
+
+Si l'auteur est bien celui qui préexiste au texte et qui avait pour ambition de raconter son passé, et si le narrateur est bien l'être qui vit à travers l'écriture en train de se faire, alors le narrateur, après l'intervention directe de l'auteur, se met à exprimer l'impasse dans laquelle il se trouve. Parlant à celui qui veut raconter son passé, il lui demande : « Comment raconter raisonnablement ces temps-là ? » C'est un discours sur le discours, une logologie qui nous dirait que la forme du texte est antérieure à la signification de celui-ci. C'est seulement dans l'œuvre en train de se faire que l'artiste découvre ce qu'il veut effectivement faire, ce qu'il veut en fait se dire à lui-même — comme l'écrit Rousset dans *Forme et Signification*. Il y a donc là la création d'un dialogue entre le discursif et le figuratif, entre le sens du discours — le signifié — et le symbole — le signifiant —, qui fait que Stendhal écrit qu'il ne peut plus écrire. Il ne veut pas se réduire aux « formes raisonnables ». Il ne veut pas « dire ce qu'étaient les choses » tout en nous permettant de le lire entre les lignes. D'ailleurs, comme affolé, il nous dit : « j'aime mieux renvoyer à un autre jour ». Il exprime alors l'impasse du langage et l'impasse biographique. En effet, Henry Brulard était aveuglé par un amour illusoire, qui le plongeait dans un bonheur illusoire. En l'écrivant, il s'en rend compte. D'une part, il ne peut écrire ce passé comme il le ressentait car il ne le ressent plus comme cela ; d'autre part, il ne peut pas non plus écrire les faits à la lumière de ce qu'il « découvre pour la première fois », parce qu'il a conscience de son ridicule *a posteriori*.
+
+Cette impasse est donc la seule chose qu'il puisse exprimer, à travers la répétition de questions, comme un fou qui sombrerait dans une aporie : « Quel parti prendre ? » « Comment peindre le bonheur fou ? » « Le lecteur a-t-il été jamais amoureux fou ? » On assiste même à la répétition de « fou », augmentant le sentiment de folie effrénée.
+
+C'est finalement à travers ses différents masques que Stendhal avoue son échec. Le langage devient fou. Le narrateur se meurt. La prose s'annule. La quête de soi semble impossible.
+
+---
+
+## III. L'aporie résolue : dire l'indicible
+
+Dans une troisième partie, nous allons montrer comment Stendhal exprime une aporie, dit l'indicible, et comment il la résout en même temps qu'il l'exprime.
+
+Le problème ici est cerné. « Le sujet surpasse le disant. » Le signifié excède le signifiant. La réalité est toujours plus vaste que le langage. C'est d'ailleurs le propre du langage. Celui-ci est utile parce qu'il généralise le particulier pour le rendre communicable. C'est justement cette force qui transforme l'information du monde en information significative qui permet à deux personnes différentes de communiquer. Mais dans le cas d'une unique personne, parce qu'on pense avant tout par le langage, celui-ci nous empêche d'accéder à nous-mêmes. Il traduit grossièrement ce qui se passe au fond de nous. C'est donc un moi abâtardi que l'on présente à soi-même lorsque l'on tente de s'écrire. Alors que le Romantisme est le courant de la parole de l'âme et des passions, qu'on fait ironiquement commencer avec Stendhal, c'est la mort de ce Romantisme qu'annonce Stendhal dans sa dernière œuvre, publiée posthume. « Je ne peux continuer », écrit-il. Il avoue son échec. Il avoue la défaite de l'expression. À la fin de *La Vie de Henry Brulard*, le Romantisme est mort. On ne peut écrire ses passions, on ne peut parler de soi, on ne peut parler tout court sans laisser de côté la vie — celle que tente désespérément d'affirmer toute la période dite « romantique ». Avec le narrateur, avec Stendhal et cette œuvre, c'est tout le Romantisme qui meurt.
+
+L'auteur qui voulait se raconter est mis en échec. « Je » est « ridicule » et ne peut être « cru ». L'écrivain lui-même est mis en échec puisqu'il déclare « arrêter d'écrire » et reporter cela au lendemain. Alors on peut comprendre ce texte comme un texte fou. Texte fou car il bégaie, comme dans un affolement de la pensée. Il s'autodétruit : l'auteur prend le pas sur le narrateur, Stendhal commence à redevenir lui-même, il se parle à lui-même dans une gradation de questions. « Rien ne peut empêcher ma folie. » Résolu, après avoir tué le père, l'auteur annonce son suicide au bord du précipice matérialisé par la dernière ligne depuis laquelle se jette Stendhal : « On gâte des sentiments si tendres à les raconter en détails. » Le langage est forclos. Le livre se ferme sur lui-même et, à en croire tout cela, c'est Henri Beyle qui conclut. C'est une invitation à sortir du livre, à arrêter d'écrire et à arrêter de lire. À arrêter de « raconter ses sentiments au risque de les gâter ». Il faut sortir. Au sens strict du terme. Poser le livre sur la table de chevet et aller vivre.
+
+### Au-delà de l'échec : le triomphe du moi
+
+Mais ce n'est pas tout. Car on peut entendre cet aveu d'échec comme le triomphe du moi à soi. Le moi, qui est tout dans ce qui se donne à voir comme une autobiographie, s'annule lui-même. Narcisse absolu, son image — qui n'a pas pu être confiée au langage — est ici au-delà du langage. Ainsi le moi est « in-croyable » — on ne peut le croire, car la parole n'a plus aucun sens — comme il est « incroyable », c'est-à-dire extraordinaire, en dehors de la réalité, au-delà du *logos*. Si « peindre le bonheur » est « impossible pour moi », il est donc possible pour le dialogue entre les moi(s), entre le narrateur, l'auteur et le lecteur. Face à son propre regard, face au regard du lecteur et face au langage, Stendhal répond à la question autobiographique dans une conclusion presque platonique.
+
+Cette conclusion est illustrée par la forme même de l'œuvre, puisque « fermez le livre » et « sautez cinquante pages » sous-entendent que le livre se poursuit et donc qu'il reste inachevé. Or, si l'on fait l'hypothèse que ceci est calculé, alors la fin n'est plus un suicide qui invite à sortir du texte mais un mouvement perpétuel qui ne se finit jamais. *La Vie de Henry Brulard* se donne à voir comme texte fini dans son inachèvement déterminé. Comme un travail toujours en cours, toujours inaccompli et à accomplir. La quête de soi, à l'image du livre inachevé, est une poétique perpétuelle. Ici, le « connais-toi toi-même » et le « je sais que je ne sais rien » de l'école platonique sont comme deux vérités en lutte perpétuelle qui s'illustrent et prennent corps dans l'œuvre de Henri Beyle. Le récit autobiographique, par son déguisement et ses multiples visages, n'a d'autre fin que lui-même. Il est sujet et objet en même temps, constituant et constitutif du moi. Le récit du moi, dialogique, est une élaboration qui reste inachevée et pourtant à faire. Comme une question, toujours en suspension.
+
+---
+
+#### Bibliographie
+
+- **Stendhal**, *La Vie de Henry Brulard*, 1835-1836 (publication posthume, 1890)
+- **Stendhal**, *Œuvres intimes*
+- **Montaigne**, *Essais*, 1580
+- **Rousset (Jean)**, *Forme et Signification*, 1962

@@ -6,6 +6,7 @@ authors:
   - "Abishek Thamma"
   - "Tom Pelletreau-Duris"
 tags: [consciousness, ai, philosophy, Human & Machine, Artificial Consciousness, Artificial Intelligence]
+section: "AI and philosophy"
 original_url: "https://ai-society.michelklein.nl/2023/from-homo-sapiens-to-homo-silicus-analyzing-gaps-in-emergence-of-sentience-in-machines/"
 original_archive: "https://web.archive.org/web/20241204190659/https://ai-society.michelklein.nl/2023/from-homo-sapiens-to-homo-silicus-analyzing-gaps-in-emergence-of-sentience-in-machines/"
 canonical: "https://ai-society.michelklein.nl/2023/from-homo-sapiens-to-homo-silicus-analyzing-gaps-in-emergence-of-sentience-in-machines/"
