@@ -138,3 +138,138 @@ Nos perceptions ne témoignent ni d'un monde objectif qui serait le support iner
 - **Merleau-Ponty**, *Causeries*, 1948
 - **Lacan**, *Écrits*, 1966
 - **Huxley**, *Les Portes de la perception*, 1954
+
+
+----- (tranlated in english using Claude sonnet 4.6)
+
+---
+
+# Of What Reality Do Our Perceptions Bear Witness?
+
+---
+
+Marcel Proust writes in *Time Regained*: "Things, as soon as they are perceived by us, become within us something immaterial, of the same nature as our preoccupations or our sensations of that time, and mingle inextricably with them." Proust expresses here very well what we define as perception. *To perceive* comes from the Latin *percipere* (from *per*, "through," and *capere*, "to take, to grasp, to conceive"). To perceive is therefore to seize or gather information through the senses. Perception is that flow of information which comes from the senses. One can perceive heat, have a perception of one's body in space — proprioception —, hear, see. And at the same time, perception cannot be reduced to sensation. Sensation, which is what imprints itself upon the sense organ itself, does not act alone in our understanding of the world, since in order to apprehend this pencil, I conceive of it at the same moment that I sense it. To properly grasp this distinction, one can take the example of optical illusions. The visual sensation imprints itself upon my retina, but this sensation always escapes the consciousness of the subject, who is connected to it only through the perception they have of it: the perception I have of the optical illusion is of movement, whereas the sensed image must be still. This means that something is added which is within us, and it is this something that causes us to perceive the optical illusion as moving.
+
+A little further on, Proust continues: "What we call reality is a certain relationship between those sensations and those memories which surround us simultaneously — a relationship that the writer must discover in order to link together, in his phrase, its two different terms forever." He even compares this relationship to "the unique relationship of the law of causality in the world of science." The writer puts his finger here on something particularly unsettling. Reality is a relationship, not a substrate. Proust, in his language, says several things. He uses the word "things"; he draws a distinction between things perceived and a subject who perceives. Things perceived become something immaterial within us, and this immaterial thing is perception, which mingles with our nature. For Proust, there is therefore a subject with preoccupations and sensations, and things perceived which become perceptions. What most people call reality would be this ensemble of things perceived or yet to be perceived. But what Proust asserts is that what we call reality is merely this relationship between sensations and memories. Reality is the totality of perceptions, and it is language alone that can seal this reality and make it endure through time — I would add: make it *exist* through time. But before reaching that point, we must interrogate this relationship, because, as the subject clearly shows, when we speak of a reality, it must be unified in order to be coherent. There cannot be the reality of the subject on one side and the reality of the object on the other; the two must coexist within the same reality. It is philosophy's task to study what we have just defined as perception and to draw from it evidence of the existence of the subject or the object. And it seems to be precisely for this reason that it becomes an object of discourse. But before asserting this, one must first clearly understand what belongs to the real and what belongs to the subject. Only then can perceptions express the existence of both within this relationship. The challenge is to show that something exists through perceptions, and that this something is unified.
+
+In fact, we perceive; we are sensory beings, subjects who respond to stimuli of all kinds, apparently caused by the external world and carried by our senses. Reality would then be a substrate for our perceptions. We realize that, in a roundabout way, it is precisely this conception of reality as substrate that Descartes attempts to preserve through his solipsism. Indeed, while he first doubts the existence of this reality in order to affirm only that of the subject, what emerges is that the Cartesian subject cannot possess within himself the faculties of perception, and therefore that an external reality must exist. Yet, as Hume demonstrates, Descartes attempted to rescue the existence of reality as substrate without pushing his reasoning to its logical conclusion: Hume shows that there can be no reality as substrate of perceptions if the subject and perceptions are two wholly distinct things. Kant and his successors would take up this powerful idea and rescue the concept of reality by affirming that it *is* the totality of perceptions themselves. Perceptions thus appear to be the witnesses — if not the very conditions — of the existence of the relationship between self and world, and therefore of the existence of both subject and object.
+
+---
+
+## I. Reality as Substrate: The Cartesian Dead End
+
+In this first section, we will see that by starting from the premise, as Descartes does in his *Meditations*, that there exists a subject who has perceptions — and who is not those perceptions — and that there exists a reality as substrate of those perceptions, one arrives at an intellectual dead end that negates the existence of this very reality.
+
+Descartes attempts to preserve the concept of reality as substrate while simultaneously asserting that subject and perception are entirely external to one another. This is his error, and he attempts to conceal it behind the idea of God.
+
+He begins, in the second meditation, with a piece of beeswax. He lists the sensations this wax produces in him. Then, after heating it, he realizes it produces entirely different sensations, even though it remains the same piece of wax. Indeed, what I designate as wax is not reducible to the present perceptions I have of it. He then attempts to revoke his sensations in doubt; all that remains of the piece of wax is the very concept of body: extended, flexible, mutable. This does not belong to the imagination but to what he calls "pure conception" or understanding. Up to this point, we seem to be in agreement with this thought experiment. The entire question is whether this very conception of body conforms to the objective body, to reality. This is where one is no longer entirely sure of understanding Descartes, for while he first says that the conception of body belongs to the understanding, he then asserts, in the sixth meditation, that the active faculty which forms perceived things does not reside in the subject — in order to preserve the status of reality as substrate of perceptions.
+
+> "I did not believe that I ought to doubt the things that seemed to me to be sensed during sleep... nor did I see why I should rather trust the things that seem to me to be sensed while awake."
+
+First, he notes: "Although the ideas which I receive through the senses do not depend upon my will, I did not think that I should therefore conclude that they proceeded from things different from myself, since perhaps there is a faculty in me, though hitherto unknown to me, which produces them." Thus perceptions do not prove the existence of a substrate reality. The fact of conceiving that there are perceptions not separate from the subject means that what we call reality in everyday life is negated. For Descartes, this seems inconceivable. And because he regards the *cogito ergo sum* as self-evident — a lived, irrefutable truth — he can conclude from it the existence of reality. Indeed, the Cartesian subject is pure thought, pure doubt, and has no substance and occupies no space. In perception, there is a "passive faculty of sensing" which belongs to the world of bodies, of sensory organs. And there is an "active faculty of forming and producing ideas" — that is, the ideas of sensations, that is, perceptions. He argues as follows: "This active faculty cannot be in me in so far as I am only a thinking thing." It is therefore of a substance different from the Cartesian subject. He concludes that it is a body and that corporeal things exist. Reality is saved.
+
+Yet in doing so, he asserts that the active faculty which forms perceived things is not in the subject, and therefore that the subject has no reason to have any connection to its perceptions — unless God willed it so.
+
+---
+
+## II. The Cartesian Subject Excludes Itself from Reality
+
+Thus, in a second section, we will apply ourselves to showing that the Cartesian subject excludes itself from reality. It has no necessary connection to perceptions, still less to sensations, and even less to the real.
+
+If we begin from the definition of reality as the substrate of our perceptions — that is, as the ensemble of objects perceived and potentially perceivable — then there is no necessary connection to this reality and we can affirm nothing about it. No proposition concerning it is necessary, and therefore to affirm its reality is illusory.
+
+Indeed, how is one to think the causality between soul and body? If perception is external to the subject, then it cannot affect the soul of itself; it is only an occasional cause, as Malebranche affirms. Likewise, if sensation is a modification of the soul, how can it be caused by an external cause? One can only be astonished at every moment to perceive at all, and this is only possible through God, by a process of continuous creation. For Hume, this causality does not exist; one cannot assert it. Causality is a relation between ideas that I conceive only through experience — that is, through induction. It therefore cannot be a necessary connection between things.
+
+We can thus conclude that there is no necessary connection between the reality of a world and the existence of a subject. The two exclude each other, and it can only be by miracle that they meet. Otherwise, certain philosophical conceptions will come to say that the subject is an illusion and has nothing real about it: the only things of which we can affirm the reality are material things — this is materialism. For others, only what the subject feels is real, and the subject is therefore alone in a solipsism condemned never to be able to say anything true about reality. But solipsism and realism are in fact two sides of the same coin, for they both attempt to affirm the objectivity of a reality.
+
+Wittgenstein writes in the *Tractatus*:
+
+> "The thinking, presenting subject; there is no such thing. If I wrote a book called *The World as I Found It*... the self would not be mentioned in it."
+
+And he continues by explaining:
+
+> "The subject does not belong to the world; rather it is a limit of the world. Where in the world is a metaphysical subject to be found? You will say that this is exactly like the case of the eye and the visual field. But really you do not see the eye. And nothing in the visual field allows you to infer that it is seen by an eye."
+
+Thus one can affirm that the Cartesian subject and the world are two things that exclude each other. Wittgenstein is influenced here by the typically Humean approach to the question of the self. He writes under the influence of Humean scepticism regarding causality and induction. Indeed, to deny that a subject can ever be found in the world, and to conclude that no such subject exists, is to be in full agreement with Hume. The only sign of divergence from the Humean conception appears a little further on, when Wittgenstein suggests that, after all, speaking of a subject may be legitimate, but in the sense of a mysterious "limit" of the world, not as an entity that forms part of it. For if no part of my experience is at the same time *a priori* — that is, if the subject has no faculty within him for apprehending the world — then everything we see could equally be otherwise. Therefore everything we write could be otherwise; therefore there is no *a priori* order of things. The subject is an idea and not a self-evidence. As such, the self that has perceptions is in fact merely an idea, and what I am is what I perceive. There exists, therefore, only what is perceived. And this is what we can call reality. In this sense, solipsism is a realism. Wittgenstein ultimately asserts at 5.64:
+
+> "Here it can be seen that solipsism, when its implications are followed out strictly, coincides with pure realism. The self of solipsism shrinks to a point without extension, and there remains the reality coordinated with it."
+
+By opposing himself to Descartes' "rigour," Wittgenstein affirms that for there to be reality, we must understand that the subject does not exist.
+
+---
+
+## III. Reality as Perception: From Kant to Lacan
+
+Wittgenstein shows that Descartes' problem is that he attempts to extend into one another two faces of the same coin. Indeed, subject and reality are defined by the same line. Descartes does not wish to reduce the notion of reality either to a subject or to a world. To preserve the notion of reality, we must therefore change our organizational framework and change the definition of reality itself. Reality cannot be the substrate of the subject's perceptions.
+
+If the Cartesian subject has no connection to sensations and the real, the transcendental subject, by contrast, does have a connection to perceptions, and it is this that allows Kant to affirm that it is engaged with reality — the reality of perceptions — but not with the real of things in themselves.
+
+There is indeed another way of thinking reality: to consider with Kant that there exists a form given *a priori* within the transcendental subject. Thus, in the *Critique of Pure Reason*, in the chapter on transcendental aesthetics, Kant advances that there must be certain *a priori* propositions which do not derive from experience. There must be, within experience itself, elements that are constitutive of the subject. Experience can here be understood as synonymous with perception, since we have defined it as that flow of information which comes from the outside and is received within forms that belong to the subject. We have defined perception as this relationship between subject and object. In perception there are data from the senses and data from the subject. These latter data, called transcendental data, are *a priori* forms. These forms are space and time. They are the moulds within which sensations are understood and apprehended.
+
+For example, one can represent things in space, space alone, but one cannot think any data outside of space. One can, however, empty space of the bodies that inhabit it: one then reaches a pure *a priori* form. Space is therefore a prerequisite, a formal condition for the apprehension of the world. All experience can only take place in space and time. It is in this sense that the real is forever foreign to us as such. Unlike the sceptics who declare that perceptions cast a veil over reality and that it can therefore never be known, Kant resists and shows that, yes, the objects of knowledge are appearances, but since these are necessary appearances — which take account of the forms of the transcendental subject — it is these appearances that are the very objects of human knowledge. Things in themselves hold no interest. But no matter, Kant tells us, for reality is not the real; reality is precisely in the perceived phenomena. Perception is the only reality that can be the object of discourse. It is from this point that phenomenology — the study of phenomena — was born.
+
+The subject can therefore claim to be able to speak of reality, since reality *is* perception. But it can only do so insofar as it speaks of it at all. Reality, if it is left unsaid, remains in a state of perpetually changing flux; it is therefore not *a* unified reality.
+
+### Lacan and the Knotting of the Real, the Imaginary, and the Symbolic
+
+Lacan writes after Kant, and the two thinkers' ideas on reality can be placed in parallel. For Lacan, the real exists in and for itself only, and it is not an object of discourse or of knowledge. What matters is therefore phenomenology — the study of phenomena, of our perceptions insofar as they are a relationship between subject and object.
+
+For example, when I perceive a cloud, I am convinced that behind the perception I have of this cloud there exists something emitting information, a real, which one can call — for want of other words — the matter of the cloud. I perceive a shape, colours, a structure, which derive *a posteriori* from this real. Yet I have no idea what this cloud would be in itself. This real says nothing and nothing can be said of it. This is indeed the hallmark of what is real: it is something that lies outside our perceptions and signifies nothing in itself and for itself. Our perceptions thus bear witness to the existence of the real, of what is, but this thing which exists means nothing, and it seems impossible to say anything of it whatsoever.
+
+Conversely, the information that seems to come from what would be in itself the cloud is precisely what we, as subjects, call cloud. The reality of the cloud is the perception of the cloud — that is, a cottony shape, a grey colour, and so on. The subject carries within himself the data that give form to the perceived cloud. This cloud is therefore constitutive of reality.
+
+In another way, the example of the cloud is interesting because it is something that fluctuates through time. The fact of seeing, behind this ensemble of sensations that change over time, one and the same cloud, is a construction. The ego is not the subject, for the ego is a unifying illusion. The fact that I perceive a cloud which I consider unified is testimony to the unification of the ego through the illusion of the "I." To say "I," for Lacan, is an illusion, but it is a necessary illusion insofar as it gives coherence to things and therefore to experience. In fact, the cloud is never one; it is a formal construction belonging to the hypothesis of a unified "I." But this hypothesis is essential to the survival of the species. Otherwise, self and world would merge into one and we would no longer be able to find our bearings in the world. The constitution of subject and object thus go hand in hand and it is what divides the real and unifies reality. Perception is indeed the relationship between subject and object. Without conscious attention — if the subject does not hold an object before itself, since the two are necessary to one another's existence — there is no perception, and there is no reality that is, because there is no relationship. There is only formless, unspeakable real. For perception to be fully unified and not remain in a state of constantly shifting flux, it must become the object of discourse. Proust was therefore right.
+
+For Lacan, discourse is the link that comes to weave together — without ever confusing — the real, the imaginary, and the symbolic. It is this relationship that constitutes reality and its unification. Language, by inventing the notion of "I," invents subject and object along with it, and thereby unifies reality in their relationship.
+
+### The Mystical Experience and the Limits of Language
+
+Conversely, one can imagine that an experience which takes place outside of language gradually empties itself of its existence, and that an experience outside of reality can be neither spoken nor communicated. There are therefore no other realities. For instance, madness, mystical experiences, or the taking of drugs — insofar as they sever the subject/object relationship — sever the possibility of language. As one approaches a mystical experience, forms lose their contours and their containers along with them. As space and time dissolve, one becomes increasingly unable to speak of the experience. One becomes increasingly unable to recall it as a conscious experience. One perhaps reaches something of the Real — but it is precisely for this reason that it is a non-experience, insofar as I cannot inscribe it in time or space. It is when the distance between object and subject is abolished that language becomes inoperative.
+
+Thus, in *The Doors of Perception*, Aldous Huxley recounts his experience with the taking of hallucinogenic cactus. He writes:
+
+> "Space was still there; but it had lost its predominance. The mind was primarily concerned, not with measures and locations, but with being and meaning. And along with indifference to space there was an even more complete indifference to time."
+
+One might think that as he loses all sense of time and space, he is no longer capable of thinking himself as a subject or of thinking an object, and therefore that he is no longer capable of expressing an experience through language. He plunges into what he calls a "pure being" of which nothing can be said. Further on, he attempts to describe what happens as he sinks into this state:
+
+> "What I then saw was what I later described as the sacramental vision of beauty. I found myself back in the world I had been in while contemplating the flowers — back in a world where everything shone with the Inner Light, and was infinite in its significance. The legs of that chair — how miraculous their tubularity, how supernatural their polished smoothness! I spent several minutes — or was it several centuries? — not merely gazing at those bamboo legs, but actually being them — or rather being myself in them; or, to be still more accurate (for 'I' was not involved in the case, nor in a certain sense were 'they'), being my Not-self in the Not-self which was the chair."
+
+What can one say except that this experience is not communicable, and that it stands at the very frontier of reality.
+
+### The Thing and Its Qualities: Merleau-Ponty and Sartre
+
+But if reality is perception, and if perception is the relationship of subject to object, then things are not mere neutral objects that we would contemplate from the outside. Each thing is a system of qualities offered to the different senses. For classical psychology, these qualities would be united by an act of intellectual synthesis. But we fail to see thereby that what unites these different qualities does not seem to be an act of intellectual synthesis — there appears to be a unity in the thing itself.
+
+Modern psychology has observed that each of these qualities, far from being rigorously isolated, possesses an affective significance that puts it in correspondence with those of the other senses. Each colour gives off a kind of moral atmosphere that makes it cheerful, invigorating... The same holds for sounds or tactile data: one can say that each is equivalent to a certain sound or a certain temperature. This is why the blind, when colours are described to them, manage to represent them to themselves through the analogy of a sound, for example. Provided, therefore, that one replaces quality within human experience, the relationship between the qualities of things begins to become intelligible.
+
+Sartre writes in *Being and Nothingness*: "Each quality is revelatory of the being of the object." The different qualities a thing possesses are not merely juxtaposed in it, but are on the contrary identical insofar as they all manifest the same way of being. The unity of the thing is not behind each of its qualities; it is reaffirmed by each of them; each of them is the thing in its entirety. Honey, for example, is a decelerated fluid: not only does it give way the moment it has been shaped, but it is also honey itself that seizes the hands of whoever attempted to seize it. Honey is sweet, and sweetness is — in the order of taste — that same sticky presence which the viscous realizes in the order of touch. To say that honey is sweet and that it is sticky are two ways of saying the same thing: a certain relationship of the thing to us, a certain way it has of pulling us in, of fascinating. "Honey is a certain behaviour of the world between my body and me."
+
+Things, therefore, are not mere neutral objects standing before us that we would contemplate. Each of them symbolizes for us a certain conduct, recalls it to us, provokes from us favourable or unfavourable reactions. This is why a person's tastes — the stance they have adopted towards the world and towards exterior being — can be read in the objects with which they have chosen to surround themselves, in the colours they prefer, in the places they choose to walk. The human being is invested in things and things are invested in the human being. To speak in the language of the psychoanalyst: things are complexes.
+
+---
+
+## Conclusion
+
+To conclude, one can say with Merleau-Ponty:
+
+> "It is time to acknowledge in the relationship between human beings and things no longer that relationship of distance and domination which exists between the sovereign mind and the piece of wax in Descartes' famous analysis, but a less clear relationship, a vertiginous proximity. This prevents us from defining ourselves as pure spirit apart from things, or from defining things as pure objects with no human attributes whatsoever."
+>
+> — **Merleau-Ponty**, *Causeries*
+
+Our perceptions bear witness neither to an objective world that would be the inert substrate of our sensations, nor to a sovereign subject contemplating that world from a distance. They bear witness to a relationship — that unique relationship of which Proust spoke — between an embodied subject and a world that is never entirely foreign to it. Reality is not behind perceptions, like a backdrop hidden by a curtain; it *is* the perceptions themselves, insofar as they are the site where subject and object mutually constitute one another. And it is language, by inventing the "I" and by naming things, that seals this relationship and gives it the consistency of a unified reality — a reality one can speak of, and which, through that very act of speech, accedes to existence in time.
+
+---
+
+#### Bibliography
+
+- **Descartes**, *Meditations on First Philosophy*, 1641
+- **Hume**, *A Treatise of Human Nature*, 1739
+- **Kant**, *Critique of Pure Reason*, 1781
+- **Proust**, *Time Regained*, 1927
+- **Wittgenstein**, *Tractatus Logico-Philosophicus*, 1921
+- **Malebranche**, *The Search after Truth*, 1674
+- **Sartre**, *Being and Nothingness*, 1943
+- **Merleau-Ponty**, *Causeries*, 1948
+- **Lacan**, *Écrits*, 1966
+- **Huxley**, *The Doors of Perception*, 1954
+
