@@ -27,9 +27,11 @@ In their comprehensive review of mechanistic interpretability, Bereska and Gavve
 
 The linear-algebraic picture is clean. A transformer's residual stream is a vector $h \in \mathbb{R}^d$. Features — the fundamental units of representation — correspond to directions in this space. The linear representation hypothesis says these features are encoded as linear combinations of neurons. Under superposition, a $d$-dimensional space can host $\propto \exp(d)$ nearly orthogonal directions, which means the model can represent exponentially more features (including agent-like computations) than it has neurons.
 
-Now consider the space of possible agent-objectives the model can instantiate. Let $\mathbf{e}_{\text{pred}}$ be the direction corresponding to the model's own training objective (next-token prediction), and let $\mathbf{o}$ be the objective vector of some simulacrum. Decompose:
-
-$$\mathbf{o} = \text{proj}_{\mathbf{e}_{\text{pred}}}(\mathbf{o}) + \mathbf{o}_{\perp}$$
+Now consider the space of possible agent-objectives the model can instantiate. Let $\mathbf{e}_{\text{pred}}$ be the direction corresponding to the model's own training objective (next-token prediction), and let $\mathbf{o}$ be the objective vector of some simulacrum. Decompose: 
+<!-- 
+$$\mathbf{o} = \text{proj}_{\mathbf{e}_{\text{pred}}}(\mathbf{o}) + \mathbf{o}_{\perp}$$ -->
+$\mathbf{o} = \operatorname{proj}_{\mathbf{e}_{\text{pred}}}(\mathbf{o}) + \mathbf{o}^{\perp}$
+ 
 
 Prediction orthogonality claims that $\mathbf{o}_{\perp}$ can be arbitrarily large and point in any direction. The simulator doesn't share objectives with its simulacra. A helpful assistant and a scheming optimizer occupy independent subspaces, and which one gets instantiated depends on the conditioning context — the prompt — not on any built-in alignment.
 

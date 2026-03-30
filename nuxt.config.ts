@@ -4,12 +4,27 @@ export default defineNuxtConfig({
   modules: ['@nuxt/content', '@nuxtjs/sitemap'],
   components: true,
   css: ['~/assets/styles.css'],
-  // @ts-ignore: adding content config for @nuxt/content (document-driven mode)
+  vue: {
+    compilerOptions: {
+      isCustomElement: (tag) => ['annotation', 'annotation-xml'].includes(tag)
+    }
+  },
+  // Content configuration
   content: {
-    documentDriven: true
+    documentDriven: true,
+    highlight: {
+      preload: ['nix']
+    },
+    markdown: {
+      remarkPlugins: ['remark-math'],
+      rehypePlugins: ['rehype-katex']
+    }
   },
   nitro: {
-    preset: 'vercel'
+    preset: 'vercel',
+    prerender: {
+      crawlLinks: true
+    }
   },
   app: {
     head: {
@@ -34,13 +49,15 @@ export default defineNuxtConfig({
         { rel: 'preconnect', href: 'https://fonts.googleapis.com' },
         { rel: 'preconnect', href: 'https://fonts.gstatic.com', crossorigin: '' },
         { rel: 'stylesheet', href: 'https://fonts.googleapis.com/css2?family=Merriweather:wght@300;400;700&family=Source+Serif+4:wght@300;400;600&display=swap' },
+        { rel: 'stylesheet', href: 'https://cdn.jsdelivr.net/npm/katex@0.16.11/dist/katex.min.css' },
         { rel: 'canonical', href: 'https://tompelletreauduris.com' }
-      ]
+      ],
+      script: []
     }
   },
   compatibility: {
     // suggested by Nitro warning — set to today's date for predictable builds
-    date: '2025-10-14'
+    date: '2026-03-30'
   },
   site: {
     url: 'https://tompelletreauduris.com'
