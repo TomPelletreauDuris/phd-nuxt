@@ -108,6 +108,8 @@ And for anyone who has ever wondered what it would feel like to be a language mo
 
 ---
 
+As Foucault was saying : the mad subject, after all, was never the one who lacked reason — but the one in whom too many reasons competed for the status of truth. Source : Michel Foucault, Histoire de la folie à l'âge classique (Madness and Civilization), originally published in 1961 under the full title Folie et Déraison: Histoire de la folie à l'âge classique.
+
 ## References
 
 Bereska, L., & Gavves, E. (2024). Mechanistic Interpretability for AI Safety — A Review. *arXiv preprint arXiv:2404.14082*. [https://arxiv.org/abs/2404.14082](https://arxiv.org/abs/2404.14082)
