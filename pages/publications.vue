@@ -14,6 +14,7 @@
                 <time :datetime="p.publishedDate">{{ p.publishedLabel }}</time>
               </span>
               <span v-else-if="p.year"> · {{ p.year }}</span>
+              <span v-if="p.status" class="status-badge">· {{ p.status }}</span>
             </div>
             <p v-if="p.summary" class="muted summary">{{ p.summary }}</p>
             <div><a :href="p.url" target="_blank" rel="noopener">Read publication</a></div>
@@ -39,3 +40,11 @@ const { data: publications } = await useAsyncData('publications-list', () =>
 
 const pubs = computed(() => sortPublications((publications.value || []).map((p) => normalizePublication(p))))
 </script>
+
+<style scoped>
+.status-badge {
+  font-style: italic;
+  color: #9CA3AF;
+  font-size: 0.9em;
+}
+</style>

@@ -15,7 +15,7 @@ draft: false
 
 ---
 
-What if the same geometric principle that explains why language models can simulate deceptive agents also explains why some brains hear voices?
+*What if the same geometric principle that explains why language models can simulate deceptive agents also explains why some brains hear voices?*
 
 This post connects three threads: a hypothesis from mechanistic interpretability about how predictive models host internal agents, a recent genetics paper on schizophrenia, and Scott Alexander's elegant tradeoff-versus-failure framework for psychiatric conditions. The punchline is that prediction orthogonality — a concept from AI safety — might offer a computational-level explanation for psychotic phenomenology, and that the tradeoff/failure duality maps cleanly onto the two-factor structure of schizophrenia risk.
 

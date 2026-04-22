@@ -119,10 +119,10 @@ const cvData = {
       size: 25 },
     
     // Publications
-    { id: 'pub-biorxiv', label: 'Psilocybin Study (bioRxiv)', type: 'publication', category: 'publications',
+    { id: 'pub-biorxiv', label: 'Psilocybin Study (Nature)', type: 'publication', category: 'publications',
       description: 'Psilocybin alters visual contextual computations',
       period: 'Feb 2025',
-      link: 'https://www.biorxiv.org/content/10.1101/2025.02.06.636848v1',
+      link: 'https://www.nature.com/articles/s41467-025-65150-y',
       size: 20 },
     { id: 'pub-pmlr', label: 'GNN States (PMLR)', type: 'publication', category: 'publications',
       description: 'Do graph neural network states contain graph properties?',
@@ -133,6 +133,11 @@ const cvData = {
       description: 'Temporal and social disorientation measurement',
       period: 'Nov 2022',
       link: 'https://doi.org/10.1371/journal.pone.0264604',
+      size: 20 },
+    { id: 'pub-tortuga', label: 'Archeological Evidence of Sea Turtles-Human Beings Interactions in Costa Rica', type: 'publication', category: 'publications',
+      description: 'Archaeological research on sea turtles and human interactions',
+      period: '2025',
+      link: 'https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5517418',
       size: 20 },
     
     // Projects
@@ -210,6 +215,7 @@ const cvData = {
     { source: 'ensc', target: 'proj-podcast', strength: 0.8 },
     { source: 'ens', target: 'proj-network', strength: 0.8 },
     { source: 'ensc', target: 'proj-ngo', strength: 0.5 },
+    { source: 'proj-ngo', target: 'pub-tortuga', strength: 1 },
     
     // Skills to various nodes
     { source: 'skill-ai', target: 'vua-phd', strength: 1.5 },
@@ -275,14 +281,23 @@ const fitToNodes = () => {
   const height = networkContainer.value.clientHeight
   const nodesWidth = maxX - minX
   const nodesHeight = maxY - minY
+  
+  // Account for UI panels
+  const uiTopMargin = 160 // Space for header + controls
+  const usableHeight = height - uiTopMargin
+  
   // Calculate scale and center
   const scale = Math.min(
     width / (nodesWidth + 80),
-    height / (nodesHeight + 80),
+    usableHeight / (nodesHeight + 80),
     1
   )
-  const tx = width / 2 - scale * (minX + nodesWidth / 2)
-  const ty = height / 2 - scale * (minY + nodesHeight / 2)
+  
+  // Position graph in lower half to avoid UI panels
+  const centerX = width / 2
+  const centerY = uiTopMargin + usableHeight / 2
+  const tx = centerX - scale * (minX + nodesWidth / 2)
+  const ty = centerY - scale * (minY + nodesHeight / 2)
   svg.transition().duration(500).call(zoom.transform, d3.zoomIdentity.translate(tx, ty).scale(scale))
 }
 
@@ -370,6 +385,11 @@ const initVisualization = () => {
     .attr('cy', 0)
 
   // Create force simulation
+  const padding = 40
+  const headerArea = { x: 20, y: 20, width: 400, height: 140 }
+  const controlsArea = { x: width - 520, y: 20, width: 500, height: 110 }
+  let hasCalibrated = false
+
   simulation = d3.forceSimulation(cvData.nodes)
     .force('link', d3.forceLink(cvData.links)
       .id(d => d.id)
@@ -378,6 +398,46 @@ const initVisualization = () => {
     .force('charge', d3.forceManyBody().strength(-400))
     .force('center', d3.forceCenter(width / 2, height / 2))
     .force('collision', d3.forceCollide().radius(d => d.size + 5))
+    .force('boundary', () => {
+      // Only apply boundary forces during initial layout
+      if (hasCalibrated) return
+
+      cvData.nodes.forEach(node => {
+        if (!node.fixed) {
+          const r = node.size || 15
+          
+          // Push away from header area on left
+          if (node.x < headerArea.x + headerArea.width + 30 && node.y < headerArea.y + headerArea.height + 30) {
+            const dx = (headerArea.x + headerArea.width + 30) - node.x
+            const dy = (headerArea.y + headerArea.height + 30) - node.y
+            const dist = Math.sqrt(dx * dx + dy * dy)
+            if (dist < 80) {
+              const force = (80 - dist) / 80
+              node.vx = (node.vx || 0) - force * dx / (dist || 1)
+              node.vy = (node.vy || 0) - force * dy / (dist || 1)
+            }
+          }
+          
+          // Push away from controls area on right
+          if (node.x > controlsArea.x - 30 && node.y < controlsArea.y + controlsArea.height + 30) {
+            const dx = node.x - (controlsArea.x - 30)
+            const dy = (controlsArea.y + controlsArea.height + 30) - node.y
+            const dist = Math.sqrt(dx * dx + dy * dy)
+            if (dist < 80) {
+              const force = (80 - dist) / 80
+              node.vx = (node.vx || 0) + force * dx / (dist || 1)
+              node.vy = (node.vy || 0) - force * dy / (dist || 1)
+            }
+          }
+          
+          // Soft boundaries on canvas edges
+          if (node.x - r < padding) node.vx = (node.vx || 0) + 0.5
+          if (node.x + r > width - padding) node.vx = (node.vx || 0) - 0.5
+          if (node.y - r < padding) node.vy = (node.vy || 0) + 0.5
+          if (node.y + r > height - padding) node.vy = (node.vy || 0) - 0.5
+        }
+      })
+    })
 
   // Create links
   link = g.append('g')
@@ -495,9 +555,13 @@ const initVisualization = () => {
       .attr('y2', d => d.target.y)
 
     nodeGroup.attr('transform', d => `translate(${d.x},${d.y})`)
+
+    // Calibrate view once simulation has converged
+    if (!hasCalibrated && simulation.alpha() < 0.05) {
+      hasCalibrated = true
+      fitToNodes()
+    }
   })
-  // Fit view after initial layout
-  setTimeout(fitToNodes, 600)
 
   // Drag functions
   function dragstarted(event, d) {

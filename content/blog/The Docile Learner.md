@@ -9,7 +9,7 @@ section: "AI and philosophy"
 draft: false
 ---
 
-*Ce texte a été co-écrit avec un LLM. Je le signale à la fois par obligation de transparence formelle, et parce que l'article ci-dessous pose précisément la question du rapport entre le sujet et l'appareil qui le modèle — et qu'il me semblait malhonnête de ne pas signaler que le « je » de ce post est lui-même un rapport, pas un sujet souverain.*
+Disclaimer : This text was co-written with an LLM. I mention it both out of formal transparency, and because the article below raises precisely the question of the relation between the subject and the apparatus that models him — and it seemed dishonest not to signal that the "I" of this post is itself a relation, not a sovereign subject.
 
 There is a scene that repeats itself, at this hour, in several million browser tabs. A learner sits before a screen. The screen asks a question. The learner answers. Somewhere — in a server that nobody has ever visited, in a Dutch or Irish data centre cooled by the North Sea — a probability is updated. A number that did not exist a moment ago now exists, and it stands for the learner. The number is small: a scalar between zero and one, or a vector of a few dozen dimensions. But it is, for the duration of the session, who the learner *is* to the machine. The next question will be selected on its basis. The next hint, withheld or granted, on its basis. The next suggested lesson, the next notification, the congratulatory animation of a green owl or a red flame — all of it flows from this number.
 
